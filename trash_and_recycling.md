@@ -21,4 +21,4 @@ Recycling day is Friday. The bins should be on the curb by 6:00 a.m. on Friday m
 
 ## Getting a Replacement Recycling Bin
 
-We always (well, almost always) have extras. [Call the Association office](contactus.html). We'll be glad to give you one if you can stop by or we can leave one outside the Association office for you to pick up when you get home.
+We always (well, almost always) have extras. If you would like a new recycling bin, please fill out this [online form](https://goo.gl/forms/hC3P9fvLzdyUwbZz1) and the office will provide one. You can also [call the Association office](contactus.html). 
