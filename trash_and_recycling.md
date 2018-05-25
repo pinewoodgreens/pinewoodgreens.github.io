@@ -13,7 +13,7 @@ Trash should be on the curb by 6:00 a.m. on Tuesdays and Fridays. If that’s to
 
 The [Garbage Grid](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211550) tells you what goes in the recycling bin, what to do with furniture and large appliances, how to dispose of yard trash, and other assorted guides for special item removal.
 
-[Republic Services](http://www.aaatrash.com/) takes away our garbage. You can reach them at 703-818-8222.
+[American Disposal](https://www.americandisposal.com/) takes away our garbage. You can reach them at 703-368-0500.
 
 ## Put out your Recycling on Fridays
 
