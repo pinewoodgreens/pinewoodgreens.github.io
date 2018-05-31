@@ -9,6 +9,8 @@ Taking care of the community is a responsibility that we all share.
 
 Trash should be on the curb by 6:00 a.m. on Tuesdays and Fridays. If that’s too early for the late sleepers on the house, we can put out the trash after 7:00 p.m. on Monday nights and Thursday nights. Use sturdy bags or garbage cans.
 
+Our trash company is [American Disposal](https://www.americandisposal.com/).
+
 ## Read the Garbage Grid
 
 The [Garbage Grid](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211550) tells you what goes in the recycling bin, what to do with furniture and large appliances, how to dispose of yard trash, and other assorted guides for special item removal.
