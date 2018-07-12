@@ -13,7 +13,7 @@ Our trash company is [American Disposal](https://www.americandisposal.com/).
 
 ## Read the Garbage Grid
 
-The [Garbage Grid](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211550) tells you what goes in the recycling bin, what to do with furniture and large appliances, how to dispose of yard trash, and other assorted guides for special item removal.
+The [Garbage Grid](https://onedrive.live.com/embed?cid=529E6218CA92DA58&resid=529E6218CA92DA58%2122896&authkey=AMh_096ZNgqpNuc&em=2) tells you what goes in the recycling bin, what to do with furniture and large appliances, how to dispose of yard trash, and other assorted guides for special item removal.
 
 [American Disposal](https://www.americandisposal.com/) takes away our garbage. You can reach them at 703-368-0500.
 
