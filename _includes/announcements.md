@@ -1,6 +1,6 @@
-#### Updated Office Hours
+#### Return to Normal Office Hours
 
-The local association office hours have changed for the summer (May 1 - Sept 1). See the [Contact Us](contactus.html) page for summer and general office hours.
+The local association office hours for Sept 1 - May 1 are 9:30 am - 4:00 pm Monday-Thursday and 8:00 am - 2:00 pm on Fridays. See the [Contact Us](contactus.html) page for additional information.
 
 #### Community Tool Shed
 
