@@ -38,7 +38,7 @@ title: Pinewood Greens
 			<div class="panel-heading">Neighborhood News</div>
 <div class="panel-body">
 
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts limit:4 %}
     <h4>
       <a href="{{ site.baseurl }}{{ post.url }}"><span>{{ post.date | date_to_string }}</span> &raquo;  {{ post.title }}</a>  </h4>
 <p>
