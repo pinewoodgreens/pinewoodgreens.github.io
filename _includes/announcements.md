@@ -4,7 +4,7 @@ The local association office hours for Sept 1 - May 1 are 9:30 am - 4:00 pm Mond
 
 #### Rent the Community Center
 
-Planning a birthday party or special event? The Pinewood Greens Community Center is available for rent to all Association owners. For reservations, please contact the HOA office at 703-560-8920 to discuss available dates. A signed contract and deposit are required. The contract can be located on the association website, www.pinewoodgreens.com under the link ”Forms”.  The rental fee is $25/hour with a security deposit of $250.00.
+Planning a birthday party or special event? The Pinewood Greens Community Center is available for rent to all Association owners. For reservations, please contact the HOA office at 703-560-8920 to discuss available dates. A signed contract and deposit are required. The contract can be located under [Forms](forms.html). The rental fee is $25/hour with a security deposit of $250.00.
 
 #### Online Architectural Application Submissions
 
