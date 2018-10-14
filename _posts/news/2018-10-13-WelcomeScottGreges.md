@@ -1,6 +1,6 @@
 ---
 layout: default_with_title
-title: Welcome to Scott Greges, New On-Site Community Manager
+title: Welcome Scott Greges, New On-Site Community Manager
 ---
 Our on-site community manager for the last several years, Casey Kaplan, began another assignment with 
 CAMP on October 1. We wish Casey the best with her new community and thank her for all that she has done 
