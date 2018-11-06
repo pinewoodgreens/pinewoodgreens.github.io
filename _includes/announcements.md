@@ -1,6 +1,6 @@
 #### Return to Normal Office Hours
 
-The local association office hours for Sept 1 - May 1 are 9:30 am - 4:00 pm Monday-Thursday and 8:00 am - 2:00 pm on Fridays. See the [Contact Us](contactus.html) page for additional information.
+The local association office hours for Sept 1 - May 1 are 7:00 am - 3:00 pm Monday-Tuesday and Thursday-Friday, and 12:00 pm - 8:00 pm on Wednesdays. See the [Contact Us](contactus.html) page for additional information.
 
 #### Rent the Community Center
 
