@@ -26,11 +26,11 @@ The mailing address for paper checks is:
 The onsite property manager is available to assist with pool pass application inquiries, architectural control questions, volunteer opportunities and other general questions. The Pinewood Greens office is located at 2731 Hyson Lane, inside the Community Center attached to the pool. The local office phone number is 703-560-8920, and the email address is office@pinewoodgreens.com. 
 The general office hours are:
 
-| Monday | 9:30 am – 4:00 pm |
-| Tuesday | 9:30 am – 4:00 pm |
-| Wednesday | 9:30 am – 4:00 pm |
-| Thursday | 9:30 am – 4:00 pm |
-| Friday | 8:00 am – 2:00 pm |
+| Monday | 7:00 am – 3:00 pm |
+| Tuesday | 7:00 am – 3:00 pm |
+| Wednesday | 12:00 pm – 8:00 pm |
+| Thursday | 7:00 am – 3:00 pm |
+| Friday | 7:00 am – 3:00 pm |
 
 <br>From May 1 to September 1, the office hours are:
 
