@@ -5,7 +5,7 @@ title: Community Policies
 
 ## Architecture and Maintenance
 													
-- [Architecture and Maintenance Guidelines](https://onedrive.live.com/redir?resid=529E6218CA92DA58!4991&amp;authkey=!AAtWnpUG9UTz8Ok&amp;ithint=file%2cpdf) (effective 11/19/2014)
+- [Architecture and Maintenance Guidelines](forms.html)
 
 ## Rules and Regulations
 
