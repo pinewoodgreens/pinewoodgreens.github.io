@@ -8,7 +8,6 @@ It is important for you to remember that you must submit an Application for Arch
 <img alt="Association Office Door" src="images/office_door.jpg" style="float: right;" />
 
 *   Architectural Review Forms
-
     *   [Application for Architectural Review](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211560)
     *   [Architecture and Maintenance Guidelines](https://onedrive.live.com/redir?resid=529E6218CA92DA58%214991) (effective 11/19/2014)
     *   Egress Window and Well [Guideline](documents/ACC/Egress window and well guideline-v20110126.pdf) and [Checklist](documents/ACC/Egress window and well checklist-v20110126.pdf) _(adopted 1/26/2011)_
