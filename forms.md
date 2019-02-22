@@ -21,6 +21,6 @@ It is important for you to remember that you must submit an Application for Arch
      **(Call office for up to date information due to formula changes)**
 *   [Change of Address Forms](documents/forms/Change_of_Address.pdf)
 *   [Using the Ladder and Other Tools](documents/forms/Ladder_Tool_Agreement.pdf) (call for a reservation first)
-*   [Annual Meeting Proxy Form](https://1drv.ms/b/s!AljaksoYYp5Sgb02rv6TdEqmtUFr-w) - Please submit prior to the Annual Meeting even if you plan to attend.
+*   [Annual Meeting Proxy Form](documents/forms/Annual_Meeting_Proxy_Form_2019.pdf) - Please submit prior to the Annual Meeting even if you plan to attend.
 
 
