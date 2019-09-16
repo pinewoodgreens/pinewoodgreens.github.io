@@ -1,3 +1,15 @@
+#### Office Closed Monday, September 16
+
+The office will be closed Monday, September 16.
+
+#### September Board Meeting
+
+The September Board of Dirctors meeting is Wednesday, September 25 at 7 pm at the community center. 
+
+#### Calendar Outages
+
+We have reported the intermittent outages with the calendar on the website. We will work to get this fixed as soon as possible. Until that occurs, upcoming event dates will be posted to this location. 
+
 #### Return to Normal Office Hours
 
 The local association office hours for Sept 1 - May 1 are 7:00 am - 3:00 pm Monday-Tuesday and Thursday-Friday, and 12:00 pm - 8:00 pm on Wednesdays. See the [Contact Us](contactus.html) page for additional information.
