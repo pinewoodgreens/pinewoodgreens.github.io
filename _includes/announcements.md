@@ -1,14 +1,7 @@
-#### Office Closed Monday, September 16
+#### Office Closed September 16 - 20
 
-The office will be closed Monday, September 16.
-
-#### September Board Meeting
-
-The September Board of Dirctors meeting is Wednesday, September 25 at 7 pm at the community center. 
-
-#### Calendar Outages
-
-We have reported the intermittent outages with the calendar on the website. We will work to get this fixed as soon as possible. Until that occurs, upcoming event dates will be posted to this location. 
+The office will be closed Monday, September 16 through Friday, September 20. For assistance with billing questions and online account access, contact the Resident Service Center at 1-855-477-2267. Resident service is available 8:30am-8:00pm (EST), Monday-Friday.
+If you need to have a different question answered, please call Patty Miles with CAMP, our management company, at 703-821-2267.
 
 #### Return to Normal Office Hours
 
