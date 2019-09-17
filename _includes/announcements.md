@@ -1,6 +1,7 @@
 #### Office Closed September 16 - 20
 
-The office will be closed Monday, September 16 through Friday, September 20. For assistance with billing questions and online account access, contact the Resident Service Center at 1-855-477-2267. Resident service is available 8:30am-8:00pm (EST), Monday-Friday.
+The office will be closed Monday, September 16 through Friday, September 20. For assistance with billing questions and online account access, contact the Resident Service Center at 1-855-477-2267. Resident service is available 8:30 am-8:00 pm (EST), Monday-Friday.
+
 If you need to have a different question answered, please call Patty Miles with CAMP, our management company, at 703-821-2267.
 
 #### Return to Normal Office Hours
