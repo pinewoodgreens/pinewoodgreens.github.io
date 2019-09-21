@@ -2,8 +2,6 @@
 layout: default_with_title
 title: Neighborhood News Archives
 ---
-
-## Pinewood Greens Neighborhood News
 													
 <style type="text/css">
 <!--
