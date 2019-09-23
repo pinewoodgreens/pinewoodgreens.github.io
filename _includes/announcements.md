@@ -1,6 +1,6 @@
 #### September Board Meeting Rescheduled to October 2
 
-The regular monthly board meeting originally scheduled for September 25 has bee rescheduled to October 2. Please see the association calendar for the most up-to-date schedule.
+The regular monthly board meeting originally scheduled for September 25 has been rescheduled to October 2. Please see the association calendar for the most up-to-date schedule.
 
 #### Regular Office Hours
 
