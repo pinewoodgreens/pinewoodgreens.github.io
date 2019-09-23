@@ -1,12 +1,10 @@
-#### Office Closed September 16 - 20
+#### September Board Meeting Rescheduled to October 2
 
-The office will be closed Monday, September 16 through Friday, September 20. For assistance with billing questions and online account access, contact the Resident Service Center at 1-855-477-2267. Resident service is available 8:30 am-8:00 pm (EST), Monday-Friday.
+The regular monthly board meeting originally scheduled for September 25 has bee rescheduled to October 2. Please see the association calendar for the most up-to-date schedule.
 
-If you need to have a different question answered, please call Patty Miles with CAMP, our management company, at 703-821-2267.
+#### Regular Office Hours
 
-#### Return to Normal Office Hours
-
-The local association office hours for Sept 1 - May 1 are 7:00 am - 3:00 pm Monday-Tuesday and Thursday-Friday, and 12:00 pm - 8:00 pm on Wednesdays. See the [Contact Us](contactus.html) page for additional information.
+The local association office hours are 9:00 am - 4:00 pm Monday-Tuesday and Thursday-Friday, and 12:00 pm - 8:00 pm on Wednesdays. See the [Contact Us](contactus.html) page for additional information.
 
 #### Rent the Community Center
 
