@@ -1,3 +1,16 @@
+#### Annual Meeting of Homeowners
+
+Our annual meeting of homeowners is March 25, 2020 at 7 PM in the community center. This year, there are two proxies to complete - an Annual Meeting Proxy and a Special meeting proxy. Even if you plan to attend the meeting, it is very important that you return both proxies as a quorum of the majority of owners is required in order for the Association to conduct business. 
+
+You can drop off signed hard copies at the office (there is a box outside), mail them to the office, or email a scan or photo to office@pinewoodgreens.com.
+
+We will be raffling Amazon gift cards to people who have submitted theirs, so be sure you don’t miss out!
+
+If you've misplaced the letter and proxy forms from Pinewood Greens, electronic copies are available at the links below:
+[Annual Meeting Letter](documents\1 - 2020-03 Annual Meeting Reminder Letter - Final.pdf)
+[Annual Meeting Proxy](documents\2 -Annual Meeting Proxy Form 2020.pdf)
+[Special Meeting Proxy](documents\3 - Pinewood - Proxy - Maximum Annual Assessment for 2021 and 2022.pdf)
+
 #### Regular Office Hours
 
 The local association office hours are 9:00 am - 4:00 pm Monday-Tuesday and Thursday-Friday, and 12:00 pm - 8:00 pm on Wednesdays. See the [Contact Us](contactus.html) page for additional information.
