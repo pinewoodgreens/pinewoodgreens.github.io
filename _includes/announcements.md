@@ -7,16 +7,13 @@ You can drop off signed hard copies at the office (there is a box outside), mail
 We will be raffling Amazon gift cards to people who have submitted theirs, so be sure you don’t miss out!
 
 If you've misplaced the letter and proxy forms from Pinewood Greens, electronic copies are available at the links below:   
+
 [Annual Meeting Letter](documents/forms/2020_Annual_Meeting_Reminder_Letter.pdf)  
 
 [Annual Meeting Proxy](documents/forms/2020_Annual_Meeting_Proxy_Form.pdf)  
 
 [Special Meeting Proxy](documents/forms/Proxy_Maximum_Annual_Assessment_2021_2022.pdf)  
 
-
-#### Regular Office Hours
-
-The local association office hours are 9:00 am - 4:00 pm Monday-Tuesday and Thursday-Friday, and 12:00 pm - 8:00 pm on Wednesdays. See the [Contact Us](contactus.html) page for additional information.
 
 #### Rent the Community Center
 
