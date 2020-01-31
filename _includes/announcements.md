@@ -8,11 +8,11 @@ We will be raffling Amazon gift cards to people who have submitted theirs, so be
 
 If you've misplaced the letter and proxy forms from Pinewood Greens, electronic copies are available at the links below:   
 
-[Annual Meeting Letter](documents/forms/2020_Annual_Meeting_Reminder_Letter.pdf)  
+[Annual Meeting Letter](documents/forms/2020_Annual_Meeting_Letter.pdf)  
 
 [Annual Meeting Proxy](documents/forms/2020_Annual_Meeting_Proxy_Form.pdf)  
 
-[Special Meeting Proxy](documents/forms/Proxy_Maximum_Annual_Assessment_2021_2022.pdf)  
+[Special Meeting Proxy](documents/forms/Proxy_Maximum_Annual_Assessment2020_2022.pdf)  
 
 
 #### Rent the Community Center
