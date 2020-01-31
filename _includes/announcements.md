@@ -7,9 +7,9 @@ You can drop off signed hard copies at the office (there is a box outside), mail
 We will be raffling Amazon gift cards to people who have submitted theirs, so be sure you don’t miss out!
 
 If you've misplaced the letter and proxy forms from Pinewood Greens, electronic copies are available at the links below:
-[Annual Meeting Letter](documents\1 - 2020-03 Annual Meeting Reminder Letter - Final.pdf)
-[Annual Meeting Proxy](documents\2 -Annual Meeting Proxy Form 2020.pdf)
-[Special Meeting Proxy](documents\3 - Pinewood - Proxy - Maximum Annual Assessment for 2021 and 2022.pdf)
+[Annual Meeting Letter](documents/forms/2020_Annual_Meeting_Reminder_Letter.pdf)
+[Annual Meeting Proxy](documents/forms/2020_Annual_Meeting_Proxy_Form.pdf)
+[Special Meeting Proxy](documents/forms/Proxy_Maximum_Annual_Assessment_2021_2022.pdf)
 
 #### Regular Office Hours
 
