@@ -15,7 +15,7 @@ It is important for you to remember that you must submit an Application for Arch
     *   [Special Application for Replacement of Windows](documents/ACC/Window Replacement ARC Application.pdf)
 *   [Online Pool Pass Application Form](https://goo.gl/forms/u2keurshhyMWdbYB3)
 	*   [Pool Landlord Delegation Form](https://onedrive.live.com/redir?resid=529E6218CA92DA58%218629)
-*   [Application for the Use of the Community Center](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211556)
+*   [Application for the Use of the Community Center](documents/forms/Community Center Rules and Use Agreement 2018 28 02 Amended.pdf)
      **Note: Rental fee is $25/hour plus a $250 security deposit.**
 *   Fence Paint Formula Sheet
      **(Call office for up to date information due to formula changes)**
