@@ -1,6 +1,6 @@
 #### Annual Meeting of Homeowners
 
-Our annual meeting of homeowners is March 25, 2020 at 7 PM in the community center. This year, there are two proxies to complete - an Annual Meeting Proxy and a Special meeting proxy. Even if you plan to attend the meeting, it is very important that you return both proxies as a quorum of the majority of owners is required in order for the Association to conduct business. 
+Our annual meeting of homeowners is March 25, 2020 at 7 PM. Due to meeting restrictions for the coronavirus, the annual and special meetings will be done via Zoom, a virtual meeting tool. Please watch for the meeting details on our Facebook page, our website at pinewoodgreens.com, or in your email inbox. This year, there are two proxies to complete - an Annual Meeting Proxy and a Special meeting proxy. Even if you plan to attend the meeting, it is very important that you return both proxies as a quorum of the majority of owners is required in order for the Association to conduct business. If we do not have enough homeowners attend via proxy or in person on the 25th, we will adjourn and reschedule to a late date between 30 and 60 days from the 25th, per our governing documents.
 
 You can drop off signed hard copies at the office (there is a box outside), mail them to the office, or email a scan or photo to office@pinewoodgreens.com.
 
