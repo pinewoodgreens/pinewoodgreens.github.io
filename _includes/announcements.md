@@ -4,7 +4,7 @@ Our annual meeting of homeowners is March 25, 2020 at 7 PM. Due to meeting restr
 
 <a href="https://zoom.us/j/151986864">https://zoom.us/j/151986864</a>
 
-To dial in by phone only, call 312-626-6799, and enter webinar ID 151 986 864 when prompted.
+To dial in by phone only, call 312-626-6799, and enter webinar ID 151 986 864 when prompted. If you download the Zoom app for Andriod or iOS, you will be able to use features such as viewing screen shares from the meeting host.
 
 This year, there are two proxies to complete - an Annual Meeting Proxy and a Special meeting proxy. Even if you plan to attend the meeting, it is very important that you return both proxies. 
 
