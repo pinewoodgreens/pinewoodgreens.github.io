@@ -2,7 +2,7 @@
 
 Our annual meeting of homeowners is March 25, 2020 at 7 PM. Due to meeting restrictions for the coronavirus, the annual and special meetings will be done via Zoom, a virtual meeting tool. Please join with a computer or smartphone by using this link:
 
-[https://zoom.us/j/151986864]
+<a href="https://zoom.us/j/151986864">https://zoom.us/j/151986864</a>
 
 To dial in by phone only, call 312-626-6799, and enter webinar ID 151 986 864 when prompted.
 
