@@ -1,6 +1,6 @@
-#### April 2020 Board Meeting
+#### Board and Committee Meetings are Virtual Until Further Notice
 
-Our April 2020 regular board meeting is April 15, 2020 at 7 PM. Until further notice, this and future meetings will be done via Zoom, a virtual meeting tool. If you wish to attend, please use the login information located in the community calendar located near the top right corner of our website. Click on the entry to view login details.
+Until further notice, monthly board meetings and committee meetings will be online via Zoom. If you wish to attend, please use the login information located in the community calendar located near the top right corner of our website. Click on the entry to view login details.
 
 #### Rent the Community Center
 
