@@ -1,3 +1,7 @@
+#### Virginia COVID-19 Phase 2 Pool and Playground Updates
+
+Information on the pool and playground are included in our latest newsletter at http://us11.campaign-archive.com/?u=ccb02905102f08c37b4d2ec3e&id=9045a9167a. The playgrounds have reopened, effective June 18, 2020. The pool remains closed. 
+
 #### Board and Committee Meetings are Virtual Until Further Notice
 
 Until further notice, monthly board meetings and committee meetings will be online via Zoom. If you wish to attend, please use the login information located in the community calendar located near the top right corner of our website. Click on the entry to view login details.
