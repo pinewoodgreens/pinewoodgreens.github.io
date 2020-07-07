@@ -1,6 +1,6 @@
 #### Trash Pickup on 7/7/2020 Delayed to 7/8/2020
 
-Trash pickup has been delayed one day to Wednesday, 7/8/2020. If you do not use a trash can and are able to retrieve your bags and put them out again Tuesday night, please do so to avoid animals breaking into the bags.
+Trash pickup has been delayed one day to Wednesday, 7/8/2020. The trash company will attempt to collect it today, but most likely it will be collected Wednesday morning.
 
 #### Virginia COVID-19 Phase 2 Pool and Playground Updates
 
