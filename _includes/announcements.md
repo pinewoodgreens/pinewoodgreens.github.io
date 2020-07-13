@@ -1,10 +1,6 @@
-#### Trash Pickup on 7/7/2020 Delayed to 7/8/2020
-
-Trash pickup has been delayed one day to Wednesday, 7/8/2020. The trash company will attempt to collect it today, but most likely it will be collected Wednesday morning.
-
 #### Virginia COVID-19 Phase 2 Pool and Playground Updates
 
-Updates on the pool and playground are included in our latest newsletter located [here](http://us11.campaign-archive.com/?u=ccb02905102f08c37b4d2ec3e&id=9045a9167a). The playgrounds have reopened, effective June 18, 2020. The pool remains closed. 
+Updates on the pool and playground are included in our latest newsletter located [here](http://us11.campaign-archive.com/?u=ccb02905102f08c37b4d2ec3e&id=9045a9167a). The playgrounds have reopened, effective June 18, 2020. The pool remains closed. The Board will review the topic again at the July 15, 2020 board meeting. 
 
 #### Board and Committee Meetings are Virtual Until Further Notice
 
