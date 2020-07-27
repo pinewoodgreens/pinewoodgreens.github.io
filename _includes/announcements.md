@@ -1,6 +1,6 @@
-#### Virginia COVID-19 Phase 2 Pool and Playground Updates
+#### Virginia COVID-19 Pool Update (7-17-2020)
 
-Updates on the pool and playground are included in our latest newsletter located [here](http://us11.campaign-archive.com/?u=ccb02905102f08c37b4d2ec3e&id=9045a9167a). The playgrounds have reopened, effective June 18, 2020. The pool remains closed. The Board will review the topic again at the July 15, 2020 board meeting. 
+A detailed update on the 2020 pool season is included in our latest newsletter located [here](http://us11.campaign-archive.com/?u=ccb02905102f08c37b4d2ec3e&id=cac4bc1be8). At the July 15, 2020 board meeting, the Board of Directors voted to keep the pool closed for the remainder of the 2020 season. 
 
 #### Board and Committee Meetings are Virtual Until Further Notice
 
