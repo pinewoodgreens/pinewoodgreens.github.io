@@ -9,7 +9,7 @@ It is important for you to remember that you must submit an Application for Arch
 
 *   Architectural Review Forms
     *   [Application for Architectural Review](documents/ACC/Application for Architectural Review.pdf)
-    *   [Architecture and Maintenance Guidelines](documents/ACC/2018_09_26 Architecture and Maintenance Guidelines.pdf) (effective 9/26/2018)
+    *   [Architecture and Maintenance Guidelines](documents/ACC/ArchitectureandMaintenanceGuidelines.pdf) (effective 9/26/2018)
     *   Egress Window and Well [Guideline](documents/ACC/Egress window and well guideline-v20110126.pdf) and [Checklist](documents/ACC/Egress window and well checklist-v20110126.pdf) _(adopted 1/26/2011)_
     *   [Special Application for Replacement of Roof](documents/ACC/ROOF APPLICATION.pdf)
     *   [Special Application for Replacement of Windows](documents/ACC/Window Replacement ARC Application.pdf)
