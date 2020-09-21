@@ -1,3 +1,7 @@
+#### Fence Paint Colors
+
+Detailed information on the Pinewood Greens fence pain colors has been added to our [forms page](forms.html) under Fence Paint Information. 
+
 #### Virginia COVID-19 Pool Update (7-17-2020)
 
 A detailed update on the 2020 pool season is included in our latest newsletter located [here](http://us11.campaign-archive.com/?u=ccb02905102f08c37b4d2ec3e&id=cac4bc1be8). At the July 15, 2020 board meeting, the Board of Directors voted to keep the pool closed for the remainder of the 2020 season. 
