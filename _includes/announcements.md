@@ -1,6 +1,6 @@
 #### Fence Paint Colors
 
-Detailed information on the Pinewood Greens fence pain colors has been added to our [forms page](forms.html) under Fence Paint Information. 
+Detailed information on the Pinewood Greens fence paint colors has been added to our [forms page](forms.html) under Fence Paint Information. 
 
 #### Virginia COVID-19 Pool Update (7-17-2020)
 
