@@ -16,7 +16,7 @@ Planning a birthday party or special event? The Pinewood Greens Community Center
 
 #### Online Architectural Application Submissions
 
-Applications for Architecture Committee review of exterior modifications may now be submitted online through the [resident portal](http://www.ciranet.com/ResidentPortal).
+Applications for Architectural Committee review of exterior modifications should be submitted to our on-site manager via US mail, dropoff, or by e-mailing office@pinewoodgreens.com.
 
 #### Community Tool Shed
 
