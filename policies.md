@@ -12,7 +12,7 @@ title: Community Policies
 - [Parking Rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf")  (effective 8/1/2013)
 - [Use of the Common Grounds](https://onedrive.live.com/redir?resid=529E6218CA92DA58%211546) (effective 8/1/2013) 
 <!-- - [Use of the Community Center](https://onedrive.live.com/redir?resid=529E6218CA92DA58%211556)-->
-- [Pool Rules](https://onedrive.live.com/redir?resid=529E6218CA92DA58%211547) (effective 8/1/2013
+- [Pool Rules](documents/forms/Pool Rules.pdf) (effective 8/1/2013
 
 ## Fiscal Policies and Procedures
 														
