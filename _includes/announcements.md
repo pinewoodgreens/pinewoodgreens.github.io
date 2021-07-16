@@ -10,7 +10,7 @@ Detailed information on the Pinewood Greens fence paint colors has been added to
 
 Until further notice, monthly board meetings and committee meetings will be online via Zoom. If you wish to attend, please use the login information located in the community calendar located near the top right corner of our website. Click on the entry to view login details.
 
-#### Rent the Community Center (currently unavailable)
+#### Rent the Community Center
 
 Planning a birthday party or special event? The Pinewood Greens Community Center is available for rent to all Association owners. For reservations, please contact the HOA office at 703-560-8920 to discuss available dates. A signed contract and deposit are required. The contract can be located under [Forms](forms.html). The rental fee is $25/hour with a security deposit of $250.00.
 
