@@ -10,7 +10,7 @@ Everyone who lives here knows that our location defines convenience. We're centr
 
 [View Larger Map](http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=http:%2F%2Fwww.pinewoodgreens.com%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2FPGHOA%2520Outline.kmz&sll=37.0625,-95.677068&sspn=59.898929,74.267578&ie=UTF8&ll=38.882147,-77.220497&spn=0.023385,0.036478&z=14)
 
-You can also use our [Neighborhood Map](sites/default/files/documents/map.pdf)
+You can also use our [Neighborhood Map](documents/map.pdf)
 
 ## Travel and Commuting
 
