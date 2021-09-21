@@ -1,6 +1,8 @@
-#### Pool Rules and Hours
+#### Consider Postal Delays When Mailing Payments
 
-Current pool hours and a link to the rules is on our [pool page](pool.html).
+The US Postal Service is reporting delays delivering mail on time, especially for envelopes that are handwritten. 
+
+If you are sending paper checks for your quarterly assessments or you are using a bill payer service who sends paper checks to deliver payments, please consider using an electronic payment method via CAMP’s Resident Portal, or allow additional mail delivery time.
 
 #### Fence Paint Colors
 
@@ -21,3 +23,7 @@ Applications for Architectural Committee review of exterior modifications should
 #### Community Tool Shed
 
 The Pinewood Greens Lending Shed Program is available. We have tools and other equipment available to borrow at no charge. Check out our [tool lending shed page](toolshed.html) for more details.
+
+#### Pool Rules and Hours
+
+Current pool hours and a link to the rules is on our [pool page](pool.html).
