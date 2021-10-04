@@ -16,7 +16,7 @@ title: Community Policies
 
 ## Fiscal Policies and Procedures
 														
-- \#1F [Fiscal Year, Audit and Budget Cycle](https://onedrive.live.com/redir?resid=529E6218CA92DA58%212815){:target="_blank"} (effective 2/1/2013)
+- \#1F [Fiscal Year, Audit and Budget Cycle]((documents/legal/Financial Policy Resolution 1F.pdf} (effective 2/1/2013)
 - \#2F [Fiscal and Expenditure Controls](https://onedrive.live.com/redir?resid=529E6218CA92DA58%212812){:target="_blank"} effective 2/1/2013)
 - \#3F [Schedule of Charges, Costs, and Reimbursements](https://onedrive.live.com/redir?resid=529E6218CA92DA58%212814){:target="_blank"} (effective 2/1/2013)
 - \#4F [Assessment and Delinquent Account Action Policy](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211552){:target="_blank"} (effective 8/1/2013)
