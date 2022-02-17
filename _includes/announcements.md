@@ -1,3 +1,7 @@
+#### Subscribe to Our Mailing List
+
+[Click here](subscribe.html) to subscribe.
+
 #### Consider Postal Delays When Mailing Payments
 
 The US Postal Service is reporting delays delivering mail on time, especially for envelopes that are handwritten. 
