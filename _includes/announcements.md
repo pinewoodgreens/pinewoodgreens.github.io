@@ -1,5 +1,6 @@
 #### Subscribe to Our Mailing List
 
+Keep up to date with the latest neighborhood news, including social events, neighborhood services, and more.
 [Click here](subscribe.html) to subscribe.
 
 #### Consider Postal Delays When Mailing Payments
