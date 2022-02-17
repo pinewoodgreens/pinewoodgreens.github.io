@@ -23,7 +23,3 @@ Applications for Architectural Committee review of exterior modifications should
 #### Community Tool Shed
 
 The Pinewood Greens Lending Shed Program is available. We have tools and other equipment available to borrow at no charge. Check out our [tool lending shed page](toolshed.html) for more details.
-
-#### Pool Rules and Hours
-
-Current pool hours and a link to the rules is on our [pool page](pool.html).
