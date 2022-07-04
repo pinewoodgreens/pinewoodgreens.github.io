@@ -9,7 +9,7 @@ In Pinewood Greens we are an association of neighbors. What we do is guided by a
 
 Nine people have been elected by the members to direct our Association. Our meetings are held monthly at the community center, 2731 Hyson Lane, Falls Church, Virginia 22043.
 
-The board meetings are all listed on the [association calendar](https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;ctz=America/New_York)(at right)
+The board meetings are all listed on the [association calendar](https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;ctz=America/New_York)(on our home page)
 
 Dates and times for Board meetings are also posted on the bulletin board at the front of the community center. Everyone is invited, so please come to our meetings. 
 
