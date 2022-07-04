@@ -1,6 +1,6 @@
 #### Updated Architectural and Maintenance Guidelines
 
-Serveral minor changes in addition to the formal publication of the vehicle charger installation guidelines are included in the guidelines published on our [forms page](forms.html). These were approved and effective as of the last board meeting on June 15, 2022.
+Serveral minor changes in addition to the formal publication of the vehicle charger installation guidelines are included in the document published on our [forms page](forms.html). These were approved and effective as of the last board meeting on June 15, 2022.
 
 #### Subscribe to Our Mailing List
 
