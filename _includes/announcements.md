@@ -1,13 +1,11 @@
+#### Updated Architectural and Maintenance Guidelines
+
+Serveral minor changes in addition to the formal publication of the vehicle charger installation guidelines are included in the guidelines published on our [forms page](forms.html). These were approved and effective as of the last board meeting on June 15, 2022.
+
 #### Subscribe to Our Mailing List
 
 Keep up to date with the latest neighborhood news, including social events, neighborhood services, and more.
 [Click here](subscribe.html) to subscribe.
-
-#### Consider Postal Delays When Mailing Payments
-
-The US Postal Service is reporting delays delivering mail on time, especially for envelopes that are handwritten. 
-
-If you are sending paper checks for your quarterly assessments or you are using a bill payer service who sends paper checks to deliver payments, please consider using an electronic payment method via CAMP’s Resident Portal, or allow additional mail delivery time.
 
 #### Fence Paint Colors
 
