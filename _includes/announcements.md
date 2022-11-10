@@ -1,15 +1,16 @@
+
+#### Changes to Trash and Recycling Service
+
+Our trash collection company, American Disposal Services (ADS), gave notice that they are changing our trash and recycling collection to once per week, on Wednesdays. This took effect on October 3, 2022. This has been successful so far, and ADS has been on time with pickups. Additional details are in our email newsletter, which is available under Neighborhood News on this page.
+
 #### Updated Architectural and Maintenance Guidelines
 
-Serveral minor changes in addition to the formal publication of the vehicle charger installation guidelines are included in the document published on our [forms page](forms.html). These were approved and effective as of the last board meeting on June 15, 2022.
+Serveral minor changes in addition to the formal publication of the vehicle charger installation guidelines are included in the document published on our [forms page](forms.html). These were approved and effective as of June 15, 2022.
 
 #### Subscribe to Our Mailing List
 
 Keep up to date with the latest neighborhood news, including social events, neighborhood services, and more.
 [Click here](subscribe.html) to subscribe.
-
-#### Fence Paint Colors
-
-Detailed information on the Pinewood Greens fence paint colors has been added to our [forms page](forms.html) under Fence Paint Information. 
 
 #### Board and Committee Meetings are Virtual Until Further Notice
 
