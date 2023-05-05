@@ -7,7 +7,7 @@ Taking care of the community is a responsibility that we all share.
 
 ## Put out Your Trash and Recycling on Wednesday
 
-Trash and recycling day is on Wednedsay. Trash and recycling should be on the curb by 6:00 a.m. on Wednesday. If that’s too early for the late sleepers on the house, we can put out the trash after 7:00 p.m. on Tuesday nights. Please do not put out your trash earlier than 7:00 PM on Tuesday. Use sturdy bags or garbage cans for trash and a recycling bin for recycling. Please do not use your recycling bin for regular household trash.
+Trash and recycling day is on Wednesday. Trash and recycling should be on the curb by 6:00 a.m. on Wednesday. If that’s too early for the late sleepers on the house, we can put out the trash after 7:00 p.m. on Tuesday nights. Please do not put out your trash earlier than 7:00 PM on Tuesday. Use sturdy bags or garbage cans for trash and a recycling bin for recycling. Please do not use your recycling bin for regular household trash.
 
 Our trash company is [American Disposal](https://www.americandisposal.com/).
 
