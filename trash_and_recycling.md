@@ -20,3 +20,30 @@ The [Garbage Grid](https://onedrive.live.com/embed?cid=529E6218CA92DA58&resid=52
 ## Getting a Replacement Recycling Bin
 
 We always (well, almost always) have extras. If you would like a new recycling bin, please fill out this [online form](https://goo.gl/forms/hC3P9fvLzdyUwbZz1) and the office will provide one. You can also [call the Association office](contactus.html). 
+
+## Holiday Schedule
+
+Some holidays will affect trash collection. We will do our best to keep you updated about trash collection delays. American Disposal's holiday schedule is as follows:
+
+      **Martin Luther King Day**      Normal Collection Schedule
+      
+      **Presidents Day**              Normal Collection Schedule
+      
+      **Memorial Day**                Normal Collection Schedule
+      
+      **Juneteenth**                  Normal Collection Schedule
+      
+      **Independence Day**            Collection Delayed by 1 Day
+      
+      **Labor Day**                   Normal Collection Schedule
+      
+      **Veterans Day**                Normal Collection Schedule
+      
+      **Thanksgiving Day**            Collection Delayed by 1 Day
+      
+      **Christmas Eve**               Normal Collection Schedule
+      
+      **Christmas Day**               If Holiday falls on Weekday: 1 Day Delay
+                                  If Holiday falls on Weekend: No Service Delay
+                                  
+      **New Years Eve**               Normal Collection Schedule
