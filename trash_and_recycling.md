@@ -25,25 +25,26 @@ We always (well, almost always) have extras. If you would like a new recycling b
 
 Some holidays will affect trash collection. We will do our best to keep you updated about trash collection delays. American Disposal's holiday schedule is as follows:
 
-      **Martin Luther King Day**      Normal Collection Schedule
+**Martin Luther King Day**: Normal Collection Schedule
       
-      **Presidents Day**              Normal Collection Schedule
+**Presidents Day**: Normal Collection Schedule
       
-      **Memorial Day**                Normal Collection Schedule
+**Memorial Day**: Normal Collection Schedule
       
-      **Juneteenth**                  Normal Collection Schedule
+**Juneteenth**: Normal Collection Schedule
       
-      **Independence Day**            Collection Delayed by 1 Day
+**Independence Day**: Collection Delayed by 1 Day
       
-      **Labor Day**                   Normal Collection Schedule
+**Labor Day**: Normal Collection Schedule
       
-      **Veterans Day**                Normal Collection Schedule
+**Veterans Day**: Normal Collection Schedule
       
-      **Thanksgiving Day**            Collection Delayed by 1 Day
+**Thanksgiving Day**: Collection Delayed by 1 Day
       
-      **Christmas Eve**               Normal Collection Schedule
+**Christmas Eve**: Normal Collection Schedule
       
-      **Christmas Day**               If Holiday falls on Weekday: 1 Day Delay
-                                  If Holiday falls on Weekend: No Service Delay
+**Christmas Day**, if Weekday: 1 Day Delay
+
+**Christmas Day**, if Weekend: No Service Delay
                                   
-      **New Years Eve**               Normal Collection Schedule
+**New Years Eve**: Normal Collection Schedule
