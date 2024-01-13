@@ -1,7 +1,7 @@
 
 #### Changes to Trash and Recycling Service
 
-As of January 1, 2024, we have contracted with a new trash collection company, Champion Services. Our trash and recycline collection day is now Tuesday. Check the [Trash & Recycling page](trash_and_recycling.md) for more details.
+As of January 1, 2024, we have contracted with a new trash collection company, Champion Services. Our trash and recycline collection day is now Tuesday. Check the [Trash & Recycling page](trash_and_recycling.html) for more details.
 
 #### Updated Architectural and Maintenance Guidelines
 
