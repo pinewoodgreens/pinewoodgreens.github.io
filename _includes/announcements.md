@@ -1,7 +1,7 @@
 
 #### Changes to Trash and Recycling Service
 
-Our trash collection company, American Disposal Services (ADS), gave notice that they are changing our trash and recycling collection to once per week, on Wednesdays. This took effect on October 3, 2022. This has been successful so far, and ADS has been on time with pickups. Additional details are in our email newsletter, which is available under Neighborhood News on this page.
+As of January 1, 2024, we have contracted with a new trash collection company, Champion Services. Our trash and recycline collection day is now Tuesday. Check the [Trash & Recycling page](trash_and_recycling.md) for more details.
 
 #### Updated Architectural and Maintenance Guidelines
 
