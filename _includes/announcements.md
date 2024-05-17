@@ -3,10 +3,6 @@
 
 As of January 1, 2024, we have contracted with a new trash collection company, Champion Services. Our trash and recycline collection day is now Tuesday. Check the [Trash & Recycling page](trash_and_recycling.html) for more details.
 
-#### Updated Architectural and Maintenance Guidelines
-
-Serveral minor changes in addition to the formal publication of the vehicle charger installation guidelines are included in the document published on our [forms page](forms.html). These were approved and effective as of June 15, 2022.
-
 #### Subscribe to Our Mailing List
 
 Keep up to date with the latest neighborhood news, including social events, neighborhood services, and more.
