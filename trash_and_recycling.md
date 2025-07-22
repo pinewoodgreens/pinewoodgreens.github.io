@@ -3,7 +3,23 @@ layout: default_with_title
 title: Trash and Recycling
 ---
 
-Taking care of the community is a responsibility that we all share.
+# Garbage Collection Reference Table
+
+---
+
+{% include trash_table.html data=site.data.trash_table_items %}
+
+---
+
+## Important Reminders
+
+**All items are picked up on Tuesday -- please have everything out before 6:00 AM.**
+
+**Contact Information:**
+- **Trash & Recycling:** [Champion Services](https://www.cswaste.com/) (703-239-8540)
+- **Bulk Items:** [HaulShare](https://haulshare.co) (703-239-8540)
+
+Taking care of our community is a shared responsibility. If you're making a trip to dispose of items at a Fairfax County facility, consider offering on the neighborhood Facebook page to take a neighbor's paint, batteries, or other materials that need special disposal.
 
 ## Put out Your Trash and Recycling on Tuesday
 
@@ -13,7 +29,8 @@ Our trash company is [Champion Services](https://www.cswaste.com/).
 
 ## Read the Garbage Grid
 
-The [Garbage Grid](https://onedrive.live.com/embed?cid=529E6218CA92DA58&resid=529E6218CA92DA58%2122896&authkey=AMh_096ZNgqpNuc&em=2) tells you what goes in the recycling bin, what to do with furniture and large appliances, how to dispose of yard trash, and other assorted guides for special item removal.
+
+The [Garbage Grid](/documents/Garbage%20Grid%202025.docx) is a printable reference guide that tells you what goes in the recycling bin, what to do with furniture and large appliances, how to dispose of yard trash, and other assorted guides for special item removal.
 
 [Champion Services](https://www.cswaste.com/) takes away our garbage. You can reach them at 703-239-8540.
 

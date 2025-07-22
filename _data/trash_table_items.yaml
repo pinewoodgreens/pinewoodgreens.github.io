@@ -1,0 +1,39 @@
+- what: "Regular household trash"
+  when: "Tuesday"
+  how: "On the curb by 6:00 a.m. on Tuesdays."
+
+- what: "Acceptable recycling items**<br>• Aluminum cans, aluminum foil & trays (rinsed & cleaned)<br>• Metal food & beverage cans<br>• Plastics (1-7), plastic bottles, wide mouth plastic containers & rigid plastics<br>• Newspapers, mixed paper, magazines, phone books & catalogs<br>• Empty aerosol cans"
+  when: "Tuesday"
+  how: "In your recycling bin. Plastic containers used for insecticides, herbicides, petroleum products or automotive fluids are not acceptable. No plastic bags please."
+
+- what: "Cardboard**<br>• Paperboard (cereal boxes, shoe boxes)<br>• Cardboard boxes must be flattened<br>• Do not put garbage or recycling in a cardboard box"
+  when: "Tuesday"
+  how: "In your recycling bin or beside it."
+
+- what: "Tree trimmings and other brush"
+  when: "Tuesday"
+  how: "Cut and tied bundles no longer than 4 feet in length with branches not more than 3 inches in diameter. Bundles or items that are bagged are not to exceed 50 LBS."
+
+- what: "Furniture/Metal appliances and other large metal items"
+  when: "Tuesday"
+  how: "Contact the office if something is not picked up."
+
+- what: "Construction debris"
+  when: "NEVER"
+  how: "If you're remodeling, you must arrange for the removal of your own construction debris."
+
+- what: "Prohibited Items**<br>• Tires, rocks, dirt, sod, brick, blocks, concrete, boards, iron, tree stumps, propane tanks, car parts such as fenders, cast iron<br><br>*Curbside disposal of these items is prohibited by law.*"
+  when: "NEVER"
+  how: "You must take these items to:<br>• I-95 disposal facility (9850 Furnace Road, Lorton, VA 703-690-1703)<br>• I-66 Transfer station (4618 West Ox Road, Fairfax, 703-690-1703)"
+
+- what: "Hazardous Waste**<br>• Paint, paint solvents, insecticides, petroleum products, other hazardous waste<br><br>*Curbside disposal of these items is prohibited by law.*"
+  when: "NEVER"
+  how: "Call Fairfax County Fire and Rescue Department at 703-324-5068 for disposal of hazardous waste."
+
+- what: "Used motor oil/Automobile batteries**<br>*Curbside disposal of these items is prohibited by law.*"
+  when: "NEVER"
+  how: "Recycle at:<br>• I-95 disposal facility (9850 Furnace Road, Lorton, 703-690-1703)<br>• I-66 transfer station (4618 West Ox Road, Fairfax 703-631-1179)"
+
+- what: "Christmas Trees"
+  when: "First 2 Wednesdays of January"
+  how: "All decorations and lights should be removed prior to placing curbside."
