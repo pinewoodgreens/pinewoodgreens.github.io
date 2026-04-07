@@ -28,9 +28,6 @@ The Bootstrap CSS is unchanged.
 display: none;
 }
 */
-.navbar-nav .open ul {
-display: none
-}
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
