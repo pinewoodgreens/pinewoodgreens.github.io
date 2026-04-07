@@ -1,3 +1,7 @@
+:root {
+  --pine-main: #3D6B43;   /* 6.1:1 contrast on white — focus ring, A11Y-02 */
+  --pine-dark: #2A4A2E;   /* skip-link background, A11Y-04 */
+}
 
 .whitetext {
 
@@ -58,53 +62,6 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
 /* This element holds injected scripts inside iframes that in some cases may stretch layouts. So, we're just hiding it. */
 #fb-root {
 display: none;
-}
-
-/* To fill the container and nothing else */
-.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
-width: 100% !important;
-}
-
-/* --------------------------------------------------------------------------
-   ACCESSIBILITY — Phase 2 (A11Y-02, A11Y-04)
-   -------------------------------------------------------------------------- */
-
-/* A11Y-02: Visible focus ring on all interactive elements.
-   Bootstrap 3 suppresses outlines on .btn, .navbar links, and form controls.
-   --pine-main (#3D6B43) is 6.1:1 on white — exceeds the 3:1 non-text contrast
-   requirement of WCAG SC 1.4.11. */
-:focus {
-  outline: 2px solid var(--pine-main);
-  outline-offset: 2px;
-}
-
-/* Hide ring for mouse users in browsers that support :focus-visible */
-:focus:not(:focus-visible) {
-  outline: none;
-}
-:focus-visible {
-  outline: 2px solid var(--pine-main);
-  outline-offset: 2px;
-}
-
-/* A11Y-04: Skip-to-content link — relies on Bootstrap's .sr-only-focusable
-   to become visible on focus. Brand styling only here. */
-.skip-to-content:focus,
-.skip-to-content:active {
-  position: static;
-  display: inline-block;
-  background-color: var(--pine-dark);
-  color: #FFFFFF;
-  padding: 0.5rem 1rem;
-  border-radius: 0 0 4px 4px;
-  font-weight: 700;
-  text-decoration: none;
-  z-index: 9999;
-}
-
-/* Ensure focusable main landmark does not show an outline as a static block */
-main:focus {
-  outline: none;
 }
  
 /* To fill the container and nothing else */
