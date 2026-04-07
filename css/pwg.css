@@ -1,288 +1,66 @@
 
-/* ==========================================================================
-   PINEWOOD GREENS — Custom Design System
-   Extends Bootstrap 3 with an earth-tone, pine-inspired color palette.
-   WCAG 2.1 AA compliant contrast ratios throughout.
-   ========================================================================== */
-
-/* --------------------------------------------------------------------------
-   COLOR TOKENS
-   -------------------------------------------------------------------------- */
-:root {
-  /* Pine greens — pulled from the painted tree in the logo */
-  --pine-deep:    #1A3820;   /* 14.8:1 on white — deepest shadow */
-  --pine-dark:    #2B5230;   /*  9.1:1 on white — navbar, dark headers */
-  --pine-main:    #3D6B43;   /*  6.1:1 on white — links, panel headings */
-  --pine-sage:    #5C8060;   /*  3.9:1 on white — hover, secondary UI */
-  --pine-light:   #9BB89E;   /* decorative — borders, dividers */
-  --pine-mist:    #EAF3EB;   /* decorative — subtle tint backgrounds */
-
-  /* Bark / earth — warm brown complement */
-  --bark:         #5E4230;   /*  7.6:1 on white — accent, icons */
-  --bark-light:   #C2A882;   /* decorative — warm sand dividers */
-
-  /* Neutral stone — warm-shifted, not pure greys */
-  --stone-dark:   #2E2C2A;   /* 15.3:1 on white — body text */
-  --stone-mid:    #5A5856;   /*  6.8:1 on white — secondary text */
-  --stone-light:  #DEDCD8;   /* decorative — light borders */
-  --stone-mist:   #F3F2EE;   /* page background — warm off-white */
-
-  /* Accent — amber/gold, pine-sap inspired */
-  --gold-bg:      #C8903A;   /* background only — 2.5:1 on white, fails AA for text */
-  --gold-dark:    #9E6E22;   /*  4.7:1 on white — use for gold-tinted text */
-}
-
-/* --------------------------------------------------------------------------
-   PAGE BASE
-   -------------------------------------------------------------------------- */
-body {
-  background-color: var(--stone-mist);
-  color: var(--stone-dark);
-  font-family: 'Lato', sans-serif; /* Google Fonts import in head.html (INFRA-01) */
-}
-
-/* --------------------------------------------------------------------------
-   LINKS
-   -------------------------------------------------------------------------- */
-a {
-  color: var(--pine-main);
-}
-a:hover,
-a:focus {
-  color: var(--pine-dark);
-  text-decoration: underline;
-}
-
-/* --------------------------------------------------------------------------
-   NAVBAR — Pine dark green replacing Bootstrap's near-black inverse
-   All text pairs: white on --pine-dark = 9.1:1 (AAA)
-   -------------------------------------------------------------------------- */
-.navbar-inverse {
-  background-color: var(--pine-dark);
-  border-color: var(--pine-deep);
-}
-
-.navbar-inverse .navbar-nav > li > a {
-  color: #FFFFFF;
-}
-.navbar-inverse .navbar-nav > li > a:hover,
-.navbar-inverse .navbar-nav > li > a:focus {
-  color: #FFFFFF;
-  background-color: var(--pine-deep);
-}
-.navbar-inverse .navbar-nav > .active > a,
-.navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .active > a:focus {
-  color: #FFFFFF;
-  background-color: var(--pine-deep);
-}
-
-/* Mobile toggle */
-.navbar-inverse .navbar-toggle {
-  border-color: var(--pine-light);
-}
-.navbar-inverse .navbar-toggle:hover,
-.navbar-inverse .navbar-toggle:focus {
-  background-color: var(--pine-deep);
-}
-.navbar-inverse .navbar-toggle .icon-bar {
-  background-color: var(--pine-light);
-}
-
-/* Dropdown menus */
-.navbar-inverse .dropdown-menu {
-  background-color: var(--pine-dark);
-  border: 1px solid var(--pine-sage);
-}
-.navbar-inverse .dropdown-menu > li > a {
-  color: #FFFFFF;
-}
-.navbar-inverse .dropdown-menu > li > a:hover,
-.navbar-inverse .dropdown-menu > li > a:focus {
-  color: #FFFFFF;
-  background-color: var(--pine-deep);
-}
-.navbar-inverse .dropdown-menu .divider {
-  background-color: var(--pine-sage);
-}
-
-/* --------------------------------------------------------------------------
-   HOVERNAV — Desktop hover-open dropdown (overrides Bootstrap open state)
-   -------------------------------------------------------------------------- */
 .whitetext {
+
   color: #FFF;
 }
 
+
 .transparent {
-  background-color: rgba(0, 0, 0, 0);
+   background-color: rgba(0,0,0,0);
 }
 
 .dropdown:hover .dropdown-menu {
-  display: block;
+display: block;
 }
 
+
+/*
+Navbar "hovernav" dropdown menu - this works only for screen sizes larger than phones.
+The Bootstrap CSS is unchanged.
+*/
 @media (min-width: 768px) {
-  .navbar-nav .open ul {
-    display: none;
-  }
-  .navbar-inverse .navbar-nav > .open > a,
-  .navbar-inverse .navbar-nav > .open > a:hover,
-  .navbar-inverse .navbar-nav > .open > a:focus {
-    color: #FFFFFF;
-    background: none;
-  }
-  .navbar-inverse .navbar-nav > li:hover {
-    background: var(--pine-deep);
-  }
-  .navbar-nav .hovernav:hover > .dropdown-menu {
-    display: block;
-  }
+/* Use this if you wish to hide the caret
+.navbar-nav .caret {
+display: none;
 }
+*/
+.navbar-nav .open ul {
+display: none
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+color: #555;
+background: none
+}
+.navbar-default .navbar-nav > li:hover {
+background: #e7e7e7
+}
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+color: #969696;
+background: none
+}
+.navbar-inverse .navbar-nav > li:hover {
+background: #080808
+}
+.navbar-nav .hovernav:hover > .dropdown-menu {
+display: block;
+}
+} 
 
-/* --------------------------------------------------------------------------
-   PANELS — Replace Bootstrap's blue panel-primary
-   -------------------------------------------------------------------------- */
-.panel-primary {
-  border-color: var(--pine-light);
-}
-.panel-primary > .panel-heading {
-  background-color: var(--pine-dark);
-  border-color: var(--pine-dark);
-  color: #FFFFFF;
-}
-.panel-primary > .panel-heading + .panel-collapse > .panel-body {
-  border-top-color: var(--pine-light);
-}
-
-/* --------------------------------------------------------------------------
-   BUTTONS
-   -------------------------------------------------------------------------- */
-.btn-primary {
-  background-color: var(--pine-main);
-  border-color: var(--pine-dark);
-  color: #FFFFFF;
-}
-.btn-primary:hover,
-.btn-primary:focus,
-.btn-primary:active,
-.btn-primary.active {
-  background-color: var(--pine-dark);
-  border-color: var(--pine-deep);
-  color: #FFFFFF;
-}
-
-/* --------------------------------------------------------------------------
-   LABELS & BADGES
-   -------------------------------------------------------------------------- */
-.label-primary,
-.badge {
-  background-color: var(--pine-main);
-}
-
-/* --------------------------------------------------------------------------
-   JUMBOTRON
-   -------------------------------------------------------------------------- */
-.jumbotron {
-  background-color: var(--pine-mist);
-  border-left: 4px solid var(--pine-light);
-}
-.jumbotron h1,
-.jumbotron h2 {
-  color: var(--pine-deep);
-}
-
-/* --------------------------------------------------------------------------
-   HERO ROW — jumbotron + calendar equal height when side by side
-   Below md breakpoint they stack naturally at their own heights.
-   -------------------------------------------------------------------------- */
-@media (min-width: 992px) {
-  .hero-row {
-    display: flex;
-    align-items: stretch;
-  }
-  .hero-row > [class*="col-"] {
-    display: flex;
-    flex-direction: column;
-    float: none; /* override Bootstrap's float-based grid */
-  }
-  .hero-row .jumbotron {
-    flex: 1;
-    margin-bottom: 0;
-  }
-  .hero-row .calendar-col iframe {
-    flex: 1;
-    height: 100%;
-    min-height: 0; /* allows flex child to shrink below content size */
-  }
-}
-
-/* --------------------------------------------------------------------------
-   FACEBOOK IFRAME — keep hidden, make widget fluid
-   -------------------------------------------------------------------------- */
+/*
+Make the Facebook Like box responsive (fluid width)
+https://developers.facebook.com/docs/reference/plugins/like-box/
+*/
+ 
+/* This element holds injected scripts inside iframes that in some cases may stretch layouts. So, we're just hiding it. */
 #fb-root {
-  display: none;
+display: none;
 }
-.fb_iframe_widget,
-.fb_iframe_widget span,
-.fb_iframe_widget span iframe[style] {
-  width: 100% !important;
-}
-
-/* --------------------------------------------------------------------------
-   PAGE CONTAINER POLISH
-   -------------------------------------------------------------------------- */
-.container {
-  background-color: #FFFFFF;
-  border-left: 1px solid var(--stone-light);
-  border-right: 1px solid var(--stone-light);
-  padding-bottom: 2rem;
-}
-
-/* Containers nested inside navbar/footer must not inherit the white background */
-.navbar .container,
-footer .container {
-  background-color: transparent;
-  border: none;
-}
-
-hr {
-  border-top-color: var(--pine-light);
-}
-
-/* Heading accents */
-h1, h2, h3 {
-  color: var(--pine-deep);
-}
-
-/* --------------------------------------------------------------------------
-   FOOTER
-   -------------------------------------------------------------------------- */
-footer {
-  background-color: var(--pine-deep);
-  color: var(--pine-mist);
-  padding: 1.75rem 1.5rem;
-  margin-top: 2rem;
-  font-size: 0.95rem;
-}
-footer a {
-  color: var(--pine-light);
-}
-footer a:hover {
-  color: #FFFFFF;
-}
-
-/* --------------------------------------------------------------------------
-   MAILCHIMP EMBED — Responsive width fix (INFRA-04)
-   Mailchimp's default embed code sets width:600px inline. Override it here
-   so the form fills its container column and does not overflow on mobile.
-   -------------------------------------------------------------------------- */
-#mc_embed_signup {
-  width: 100% !important;
-  max-width: 600px;
-}
-
-#mc_embed_signup .mc-field-group input,
-#mc_embed_signup .mc-field-group select {
-  width: 100%;
-  box-sizing: border-box;
-}
+ 
+/* To fill the container and nothing else */
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+width: 100% !important;
+} 

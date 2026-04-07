@@ -8,7 +8,9 @@ We periodically send e-mail from time to time to keep residents updated with imp
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
-        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;}
+        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
     <form action="https://pinewoodgreens.us11.list-manage.com/subscribe/post?u=ccb02905102f08c37b4d2ec3e&amp;id=d192db10c4&amp;f_id=000b18e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
@@ -26,22 +28,12 @@ We periodically send e-mail from time to time to keep residents updated with imp
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
-                <p style="margin: 0px auto;"><a href="https://eepurl.com/jdr-I-" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
+                <p style="margin: 0px auto;"><a href="http://eepurl.com/jdr-I-" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
             </div>
         </div>
     </div>
 </form>
 </div>
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">
-(function($) {
-  window.fnames = new Array();
-  window.ftypes = new Array();
-  fnames[0]='EMAIL'; ftypes[0]='email';
-  fnames[1]='FNAME'; ftypes[1]='text';
-  fnames[2]='LNAME'; ftypes[2]='text';
-  fnames[3]='MMERGE3'; ftypes[3]='url';
-}(jQuery));
-var $mcj = jQuery.noConflict(true);
-</script></div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='url';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
 
 If you are using Gmail, check the Promotions folder for emails from us.  To have future emails delivered to your inbox, drag the email from Promotions and drop it on Primary.  You will see a notification that will ask you if you want to do this for future emails.  Click yes and you're all set.
