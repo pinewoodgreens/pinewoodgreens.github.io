@@ -290,17 +290,17 @@ footer a:hover {
    --pine-main (#3D6B43) is 6.1:1 on white — exceeds the 3:1 non-text contrast
    requirement of WCAG SC 1.4.11. */
 :focus {
-  outline: 2px solid var(--pine-main);
-  outline-offset: 2px;
+  outline: 2px solid var(--pine-main) !important;
+  outline-offset: 2px !important;
 }
 
 /* Hide ring for mouse users in browsers that support :focus-visible */
 :focus:not(:focus-visible) {
-  outline: none;
+  outline: none !important;
 }
 :focus-visible {
-  outline: 2px solid var(--pine-main);
-  outline-offset: 2px;
+  outline: 2px solid var(--pine-main) !important;
+  outline-offset: 2px !important;
 }
 
 /* A11Y-04: Skip-to-content link — relies on Bootstrap's .sr-only-focusable
