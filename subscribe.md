@@ -32,6 +32,16 @@ We periodically send e-mail from time to time to keep residents updated with imp
     </div>
 </form>
 </div>
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='url';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">
+(function($) {
+  window.fnames = new Array();
+  window.ftypes = new Array();
+  fnames[0]='EMAIL'; ftypes[0]='email';
+  fnames[1]='FNAME'; ftypes[1]='text';
+  fnames[2]='LNAME'; ftypes[2]='text';
+  fnames[3]='MMERGE3'; ftypes[3]='url';
+}(jQuery));
+var $mcj = jQuery.noConflict(true);
+</script></div>
 
 If you are using Gmail, check the Promotions folder for emails from us.  To have future emails delivered to your inbox, drag the email from Promotions and drop it on Primary.  You will see a notification that will ask you if you want to do this for future emails.  Click yes and you're all set.
