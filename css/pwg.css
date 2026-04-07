@@ -28,8 +28,8 @@
   --stone-mist:   #F3F2EE;   /* page background — warm off-white */
 
   /* Accent — amber/gold, pine-sap inspired */
-  --gold:         #C8903A;   /* use with dark text only (2.5:1 on white) */
-  --gold-dark:    #9E6E22;   /*  4.7:1 on white — gold text if needed */
+  --gold-bg:      #C8903A;   /* background only — 2.5:1 on white, fails AA for text */
+  --gold-dark:    #9E6E22;   /*  4.7:1 on white — use for gold-tinted text */
 }
 
 /* --------------------------------------------------------------------------
