@@ -38,6 +38,7 @@
 body {
   background-color: var(--stone-mist);
   color: var(--stone-dark);
+  font-family: 'Lato', sans-serif; /* Google Fonts import in head.html (INFRA-01) */
 }
 
 /* --------------------------------------------------------------------------
