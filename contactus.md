@@ -7,11 +7,11 @@ image: /images/office_door.jpg
 
 ## Resident Service Center
 
-For assistance with billing questions and online account access, contact the Resident Service Center at 1-855-477-2267.  Resident service is available 8:30am-8:00pm (EST), Monday-Friday.  Resident service is also available via electronic message through the [resident portal](http://www.ciranet.com/ResidentPortal). 
+For assistance with billing questions and online account access, contact the Resident Service Center at 1-855-477-2267.  Resident service is available 8:30am-8:00pm (EST), Monday-Friday.  Resident service is also available via electronic message through the [resident portal](https://www.ciranet.com/ResidentPortal). 
 
 ## Payment Information
 
-Online Payment options are now available through the [resident portal](http://www.ciranet.com/ResidentPortal).  There is a fee of $14.95 for credit card payments.  E-Check and ACH payments do not incur additional fees.
+Online Payment options are now available through the [resident portal](https://www.ciranet.com/ResidentPortal).  There is a fee of $14.95 for credit card payments.  E-Check and ACH payments do not incur additional fees.
 
 The mailing address for paper checks is:
 
