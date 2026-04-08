@@ -1,5 +1,9 @@
 source "https://rubygems.org"
 
+# Ruby 4.0 removed base64 from default gems; required by safe_yaml (Jekyll dep)
+gem "base64"
+gem "bigdecimal"
+
 # Use the latest version.
 gem "jekyll"
 

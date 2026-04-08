@@ -56,11 +56,21 @@ p {
    -------------------------------------------------------------------------- */
 a {
   color: var(--pine-main);
+  text-decoration: underline; /* WCAG 1.4.1: distinguish links without relying on color alone */
 }
 a:hover,
 a:focus {
   color: var(--pine-dark);
   text-decoration: underline;
+}
+/* Suppress underline on UI controls where it would be visually wrong */
+.navbar a,
+.btn,
+.btn:hover,
+.btn:focus,
+.nav a,
+.dropdown-toggle {
+  text-decoration: none;
 }
 
 /* --------------------------------------------------------------------------
@@ -193,9 +203,15 @@ a:focus {
   background-color: var(--pine-mist);
   border-left: 4px solid var(--pine-light);
 }
+/* Plain jumbotrons (no background image) use dark heading color */
 .jumbotron h1,
 .jumbotron h2 {
   color: var(--pine-deep);
+}
+/* Image-backed jumbotrons always show white headings over the dark overlay */
+.jumbotron[class*="jumbotron--bg-"] h1,
+.jumbotron[class*="jumbotron--bg-"] h2 {
+  color: #fff;
 }
 
 /* PLSH-01: Reset border for hero h1 — base rule must not leak into jumbotrons */
@@ -280,11 +296,12 @@ a:focus {
    elements nested inside jumbotrons.
    Two variants match the two opacity values in use across the includes.
    -------------------------------------------------------------------------- */
-.jumbotron-overlay {
+/* Use .jumbotron ancestor for higher specificity than the .container rule below */
+.jumbotron .jumbotron-overlay {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
-.jumbotron-overlay--deep {
+.jumbotron .jumbotron-overlay--deep {
   background-color: rgba(0, 0, 0, 0.9);
 }
 
@@ -347,7 +364,7 @@ h6 { font-size: 1rem; }     /* 16px */
    FOOTER
    -------------------------------------------------------------------------- */
 footer {
-  background-color: var(--pine-deep);
+  background-color: var(--pine-dark);
   color: var(--pine-mist);
   padding: 1.75rem 1.5rem;
   margin-top: 2rem;
@@ -393,11 +410,11 @@ footer .row {
    "arial,verdana" to stay consistent with TYPE-02. */
 .display_archive {
   font-family: var(--font-body);
-  font-size: 0.875rem; /* 14px — matches original 12px intent scaled to rem */
+  font-size: 1.5rem;
 }
 
 .campaign {
-  line-height: 1.25;
+  line-height: 1.4;
   margin: 5px 0;
 }
 
