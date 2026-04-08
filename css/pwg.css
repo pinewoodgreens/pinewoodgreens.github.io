@@ -486,3 +486,16 @@ footer .row {
 main:focus {
   outline: none;
 }
+
+/* --------------------------------------------------------------------------
+   PRINT STYLES — SEO-03
+   Hide navigation chrome and non-content embeds; let content flow naturally
+   for printing. Iframes and form widgets cannot render meaningfully on paper.
+   -------------------------------------------------------------------------- */
+@media print {
+  .navbar           { display: none; }
+  footer            { display: none; }
+  .fb_iframe_widget { display: none; }
+  #mc_embed_signup  { display: none; }
+  .calendar-col     { display: none; }
+}
