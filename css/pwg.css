@@ -41,6 +41,13 @@
    -------------------------------------------------------------------------- */
 body {
   background-color: var(--stone-mist);
+  /* Pine-trees image visible only in side margins — content container covers it with white.
+     90% opaque off-white overlay keeps the image subtle. */
+  background-image:
+    linear-gradient(rgba(243, 242, 238, 0.80), rgba(243, 242, 238, 0.80)),
+    url('../images/pine-trees.jpg');
+  background-size: cover;
+  background-attachment: fixed;
   color: var(--stone-dark);
   font-family: var(--font-body); /* TYPE-02 */
   font-size: 16px;
@@ -391,11 +398,17 @@ footer .row {
 }
 
 /* --------------------------------------------------------------------------
-   MAILCHIMP EMBED — Responsive width fix (INFRA-04)
+   MAILCHIMP EMBED — Responsive width fix (INFRA-04) + form base (DSS-04)
+   Merged from two duplicate #mc_embed_signup blocks (WR-01).
+   font-family/font-size/background migrated from inline <style> in subscribe.md;
+   font uses var(--font-body) for TYPE-02 compliance.
    -------------------------------------------------------------------------- */
 #mc_embed_signup {
   width: 100% !important;
   max-width: 600px;
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  background-color: #fff;
 }
 
 #mc_embed_signup .mc-field-group input,
@@ -416,16 +429,6 @@ footer .row {
 .campaign {
   line-height: 1.4;
   margin: 5px 0;
-}
-
-/* Mailchimp signup form base — DSS-04
-   Migrated from inline <style> in subscribe.md.
-   background-color and width already handled by INFRA-04 rules above.
-   font replaced with var(--font-body) for TYPE-02 compliance. */
-#mc_embed_signup {
-  font-family: var(--font-body);
-  font-size: 0.875rem;
-  background-color: #fff;
 }
 
 /* --------------------------------------------------------------------------
