@@ -12,7 +12,8 @@
   --pine-deep:    #1A3820;   /* 14.8:1 on white — deepest shadow */
   --pine-dark:    #2B5230;   /*  9.1:1 on white — navbar, dark headers */
   --pine-main:    #3D6B43;   /*  6.1:1 on white — links, panel headings */
-  --pine-sage:    #5C8060;   /*  3.9:1 on white — hover, secondary UI */
+  --pine-sage:    #5C8060;   /* 3.9:1 on white — hover, secondary UI ONLY.
+                                NEVER use as text color: fails WCAG AA at 3.9:1 (minimum 4.5:1 required). */
   --pine-light:   #9BB89E;   /* decorative — borders, dividers */
   --pine-mist:    #EAF3EB;   /* decorative — subtle tint backgrounds */
 
