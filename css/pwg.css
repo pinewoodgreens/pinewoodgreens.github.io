@@ -252,8 +252,15 @@ a:focus {
     flex: 1;
     margin-bottom: 0;
   }
+  .hero-row .calendar-col {
+    border: 2px solid var(--pine-main);
+    border-radius: 8px;
+    overflow: hidden; /* clips iframe to rounded corners */
+  }
   .hero-row .calendar-col iframe {
+    display: block; /* removes inline baseline gap */
     flex: 1;
+    width: 100%;
     height: 100%;
     min-height: 0; /* allows flex child to shrink below content size */
   }
