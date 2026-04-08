@@ -66,6 +66,9 @@ None — both `site.description` and `site.title` are fully wired and will rende
 
 None — no new network endpoints, auth paths, or trust boundaries introduced. T-06-01 (XSS in attribute context) was mitigated as planned via `| escape` filter on both description sources.
 
-## Self-Check
+## Self-Check: PASSED
 
-Verifying files exist and commits are present.
+- FOUND: _config.yml
+- FOUND: _includes/head.html
+- FOUND: commit bca3f49 (feat(06-01): add title, description, url keys to _config.yml)
+- FOUND: commit 79bd387 (feat(06-01): fix head.html title tag and wire description fallback)
