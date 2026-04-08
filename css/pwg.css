@@ -198,6 +198,19 @@ a:focus {
   color: var(--pine-deep);
 }
 
+/* PLSH-01: Reset border for hero h1 — base rule must not leak into jumbotrons */
+.jumbotron h1,
+.jumbotron h1.post-title {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+/* PLSH-02: Header logo breathing room (D-05, D-06) */
+.header-logo-row {
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
 /* --------------------------------------------------------------------------
    HERO ROW — jumbotron + calendar equal height when side by side
    Below md breakpoint they stack naturally at their own heights.
@@ -318,6 +331,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.75rem;
 }
 h1 { font-size: 2.5rem; }   /* 40px */
+
+/* PLSH-01: Visual title treatment — anchor heading below text */
+h1 {
+  border-bottom: 2px solid var(--pine-light);
+  padding-bottom: 0.5rem;
+}
 h2 { font-size: 1.875rem; } /* 30px */
 h3 { font-size: 1.5rem; }   /* 24px */
 h4 { font-size: 1.25rem; }  /* 20px */
@@ -339,6 +358,19 @@ footer a {
 }
 footer a:hover {
   color: #FFFFFF;
+}
+
+/* PLSH-03: Cancel Bootstrap row negative margins inside footer (D-09) */
+footer .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* PLSH-04: Safety net — scope responsive image behavior to page content (D-08).
+   Logo img already has .img-responsive; this is additive and harmless. */
+.container img {
+  max-width: 100%;
+  height: auto;
 }
 
 /* --------------------------------------------------------------------------
