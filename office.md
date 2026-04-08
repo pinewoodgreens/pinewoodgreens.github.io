@@ -7,7 +7,7 @@ The day-to-day business of the association is handled at the Association office,
 
 We have two part-time employees working in the Association office, a financial manager and an association manager. One of the two is usually available during the office hours below.
 
-<img alt="" longdesc="Office door" src="images/office_door.jpg" style="width: 271px; height: 215px; float: right;" />
+<img alt="" longdesc="Office door" src="images/office_door.jpg" class="img-responsive" style="float: right;" />
 
 | Monday | 10:00 am – 4:30 pm |
 | Tuesday | 10:00 am – 4:30 pm |
