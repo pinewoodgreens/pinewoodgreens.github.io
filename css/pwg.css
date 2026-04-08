@@ -444,9 +444,15 @@ footer .row {
   outline-offset: 2px !important;
 }
 
-/* Hide ring for mouse users in browsers that support :focus-visible */
-:focus:not(:focus-visible) {
-  outline: none !important;
+/* Hide ring for mouse users in browsers that support :focus-visible.
+   @supports guard prevents this rule from stripping all outlines in older
+   browsers (iOS Safari < 15.4, legacy mobile) that don't understand
+   :focus-visible and would otherwise apply :focus:not(:focus-visible)
+   unconditionally. (WR-02) */
+@supports selector(:focus-visible) {
+  :focus:not(:focus-visible) {
+    outline: none !important;
+  }
 }
 :focus-visible {
   outline: 2px solid var(--pine-main) !important;
