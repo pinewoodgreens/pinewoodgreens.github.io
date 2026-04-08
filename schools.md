@@ -5,7 +5,7 @@ title: Schools and Colleges
 
 ## Local Schools – We’re Proud of Our Kids
 
-[Fairfax County Public Schools](http://www.fcps.edu) <img alt="Fairfax County Public Schools" class="inlineRight" src="images/school_fcps.jpg" style="float: right;" />is one of the top school systems in the nation. It has been recognized for its excellence in education and meets or exceeds state and federal guidelines with talented and committed teachers and support personnel as well as state-of-the-art internet connectivity in all classrooms.
+[Fairfax County Public Schools](http://www.fcps.edu) <img alt="Fairfax County Public Schools" class="inlineRight img-responsive" src="images/school_fcps.jpg" style="float: right;" />is one of the top school systems in the nation. It has been recognized for its excellence in education and meets or exceeds state and federal guidelines with talented and committed teachers and support personnel as well as state-of-the-art internet connectivity in all classrooms.
 
 We have living proof of how great Fairfax County Schools are right here in our own neighborhood.
 
@@ -26,7 +26,7 @@ For information about private schools in northern Virginia, click [here](http://
 
 ## Learning Even More
 
-There’s ample opportunity to learn at the local, state, and D.C. colleges and universities. <img alt="University" class="inlineRight" src="images/school_uva.jpg" style="float: right;" />
+There’s ample opportunity to learn at the local, state, and D.C. colleges and universities. <img alt="University" class="inlineRight img-responsive" src="images/school_uva.jpg" style="float: right;" />
 
 *   [Northern Virginia Community College](http://www.nvcc.edu)
 *   [George Mason University](http://www.gmu.edu)
