@@ -6,13 +6,13 @@ description: Parking rules and procedures for the Pinewood Greens community.
 
 Parking (or the lack of spaces to park) is a problem in almost every townhouse community.  In our community, we have approximately two parking spots per unit including reserved parking.  We do not require parking permits and we do not have the community monitored regularly by a towing company. 
 
-However, we do ask that everyone follow the [parking rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf%22) and abide by common community courtesy practices as much as possible to give everyone an opportunity to park close to their house.  The association can and will tow vehicles in non-compliance with the [parking regulations](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf%22) at the owner's expense.
+However, we do ask that everyone follow the [parking rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf) and abide by common community courtesy practices as much as possible to give everyone an opportunity to park close to their house.  The association can and will tow vehicles in non-compliance with the [parking regulations](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf) at the owner's expense.
 
 If your vehicle has been towed, please contact [Pete's Towing and Storage](http://www.petestowingandstorage.com/)
 
 #### Reserved parking
 
-Reserved spots are allocated for the exclusive use by the unit marked on the parking spot.  Pinewood Greens [parking regulations](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf%22) permit homeowners to have vehicles towed from his/her reserved spot at the vehicle owner's expense.  To have a vehicle towed from your reseved parking spot, please contact [Pete's Towing & Storage](http://www.petestowingandstorage.com/) at 703-533-1355.  If you have a vehicle towed, please notify the Pinewood Greens office at your earliest convenience to let us know.
+Reserved spots are allocated for the exclusive use by the unit marked on the parking spot.  Pinewood Greens [parking regulations](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf) permit homeowners to have vehicles towed from his/her reserved spot at the vehicle owner's expense.  To have a vehicle towed from your reseved parking spot, please contact [Pete's Towing & Storage](http://www.petestowingandstorage.com/) at 703-533-1355.  If you have a vehicle towed, please notify the Pinewood Greens office at your earliest convenience to let us know.
 
 #### Non-reserved Parking
 
@@ -30,4 +30,4 @@ Pinewood Greens regulations prohibit vehicles with expired license plates or saf
 
 Vehicles that obviously cannot be driven are prohibited from parking on Pinewood Greens common property.
 
-For a full listing of our parking rules, please read our [Parking Rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf%22).
+For a full listing of our parking rules, please read our [Parking Rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf).

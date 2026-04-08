@@ -10,7 +10,7 @@ description: Community policies and rules governing the Pinewood Greens Homeowne
 
 ## Rules and Regulations
 
-- [Parking Rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf")  (effective 8/1/2013)
+- [Parking Rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf)  (effective 8/1/2013)
 - [Use of the Common Grounds](https://onedrive.live.com/redir?resid=529E6218CA92DA58%211546) (effective 8/1/2013) 
 <!-- - [Use of the Community Center](https://onedrive.live.com/redir?resid=529E6218CA92DA58%211556)-->
 - [Pool Rules](documents/forms/Pool Rules_5-28-22.pdf) (effective 5/28/22)
