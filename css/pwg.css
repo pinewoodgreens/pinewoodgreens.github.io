@@ -257,7 +257,7 @@ a:focus {
     border: 2px solid var(--pine-main);
     border-radius: 8px;
     overflow: hidden; /* clips iframe to rounded corners */
-    padding: 30px 15px; /* matches Bootstrap 3 jumbotron default padding */
+
   }
   .hero-row .calendar-col iframe {
     display: block; /* removes inline baseline gap */
