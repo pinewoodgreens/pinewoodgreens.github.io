@@ -84,8 +84,8 @@ Plans:
 **UI hint**: yes
 
 Plans:
-- [ ] 04-01-PLAN.md — Add CSS modifier classes for jumbotron backgrounds, overlays, and migrated widget styles to pwg.css
-- [ ] 04-02-PLAN.md — Remove inline styles from all jumbotron includes and inline style blocks from index.html, newsarchive.md, subscribe.md
+- [x] 04-01-PLAN.md — Add CSS modifier classes for jumbotron backgrounds, overlays, and migrated widget styles to pwg.css
+- [x] 04-02-PLAN.md — Remove inline styles from all jumbotron includes and inline style blocks from index.html, newsarchive.md, subscribe.md
 - [ ] 04-03-PLAN.md — Footer contrast verification checkpoint (DSS-05)
 
 ### Phase 5: Content Page Polish
@@ -130,7 +130,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5 → 6 → 7
 | 1. Broken Foundation Fixes | 0/2 | Not started | - |
 | 2. Accessibility Blockers | 0/TBD | Not started | - |
 | 3. Typography & Token Completion | 0/TBD | Not started | - |
-| 4. Jumbotron & Inline Style Refactor | 0/TBD | Not started | - |
+| 4. Jumbotron & Inline Style Refactor | 2/3 | In Progress|  |
 | 5. Content Page Polish | 0/TBD | Not started | - |
 | 6. Reach & SEO | 0/TBD | Not started | - |
 | 7. Accessibility Audit | 0/TBD | Not started | - |
