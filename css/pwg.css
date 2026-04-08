@@ -224,6 +224,58 @@ a:focus {
 }
 
 /* --------------------------------------------------------------------------
+   JUMBOTRON BACKGROUND MODIFIER CLASSES — DSS-02
+   Replaces inline style="background: url(...)" on .jumbotron elements.
+   All images use 50% 0 no-repeat positioning to match original layout.
+   -------------------------------------------------------------------------- */
+.jumbotron--bg-treecover {
+  background-image: url('/images/treecover.jpg');
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron--bg-pool {
+  background-image: url('/images/pool-texture.jpg');
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron--bg-snow {
+  background-image: url('/images/snow.JPG');
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron--bg-emailsignup {
+  background-image: url('/images/emailsignup.jpg');
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* When a background image is present, override the default mint-tint background */
+.jumbotron[class*="jumbotron--bg-"] {
+  background-color: transparent;
+}
+
+/* --------------------------------------------------------------------------
+   JUMBOTRON OVERLAY CLASSES — DSS-03
+   Replaces inline style="background-color: rgba(0,0,0,X)" on .container
+   elements nested inside jumbotrons.
+   Two variants match the two opacity values in use across the includes.
+   -------------------------------------------------------------------------- */
+.jumbotron-overlay {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.jumbotron-overlay--deep {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+/* --------------------------------------------------------------------------
    FACEBOOK IFRAME — keep hidden, make widget fluid
    -------------------------------------------------------------------------- */
 #fb-root {
@@ -301,6 +353,30 @@ footer a:hover {
 #mc_embed_signup .mc-field-group select {
   width: 100%;
   box-sizing: border-box;
+}
+
+/* Mailchimp newsletter list widget — DSS-04
+   Migrated from inline <style> in index.html and newsarchive.md.
+   font-family uses var(--font-body) rather than the original hardcoded
+   "arial,verdana" to stay consistent with TYPE-02. */
+.display_archive {
+  font-family: var(--font-body);
+  font-size: 0.875rem; /* 14px — matches original 12px intent scaled to rem */
+}
+
+.campaign {
+  line-height: 1.25;
+  margin: 5px 0;
+}
+
+/* Mailchimp signup form base — DSS-04
+   Migrated from inline <style> in subscribe.md.
+   background-color and width already handled by INFRA-04 rules above.
+   font replaced with var(--font-body) for TYPE-02 compliance. */
+#mc_embed_signup {
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  background-color: #fff;
 }
 
 /* --------------------------------------------------------------------------
