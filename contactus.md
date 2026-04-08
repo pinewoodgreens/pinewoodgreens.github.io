@@ -1,6 +1,8 @@
 ---
 layout: default_with_title
 title: Contact Us
+description: Contact the Pinewood Greens Association office by phone, mail, or in person.
+image: /images/office_door.jpg
 ---
 
 ## Resident Service Center

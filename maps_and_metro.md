@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Maps and Metro
+description: Maps of the Pinewood Greens neighborhood and information about nearby Metro access.
 ---
 # We're right in the Middle
 

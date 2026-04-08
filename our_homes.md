@@ -1,6 +1,8 @@
 ---
 layout: default_with_title
 title: Our Homes
+description: Information about homes and properties in the Pinewood Greens neighborhood.
+image: /images/houses.jpg
 ---
 
 <img alt="" src="images/houses.jpg" class="img-responsive img-float-right" />What everyone notices first about Pinewood Greens is the amazing amount of green space not found in most townhouse communities.

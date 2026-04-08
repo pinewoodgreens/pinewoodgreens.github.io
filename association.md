@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title: The Association
+description: Learn about the Pinewood Greens Homeowners Association, its board, and how it serves the community.
 ---
 
 In Pinewood Greens we are an association of neighbors. What we do is guided by an elected Board of Directors, a handful of committees, and an active contingent of volunteers who give their time to make our Association work.

@@ -1,6 +1,8 @@
 ---
 layout: default_with_title
 title: Parks and Parties
+description: Parks, green spaces, and recreational areas available to Pinewood Greens residents.
+image: /images/golf_course.jpg
 ---
 
 ## We Know How to Have Fun

@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title: Neighborhood News Archives
+description: Archive of past Pinewood Greens neighborhood news and community announcements.
 ---
 													
 <style type="text/css">

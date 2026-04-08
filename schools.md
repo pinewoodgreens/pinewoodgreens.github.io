@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title: Schools and Colleges
+description: Information about schools and colleges serving the Pinewood Greens community.
 ---
 
 ## Local Schools – We’re Proud of Our Kids

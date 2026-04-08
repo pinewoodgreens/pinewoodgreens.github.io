@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title: Subscribe to our Mailing List 
+description: Subscribe to the Pinewood Greens mailing list to receive community news and announcements.
 ---
 We periodically send e-mail from time to time to keep residents updated with important information about the services that we provide, social events, impactful maintenance in the neighborhood, and more.  If you aren't already signed up, you may do so by filling out the form below.
 

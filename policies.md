@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title: Community Policies
+description: Community policies and rules governing the Pinewood Greens Homeowners Association.
 ---
 
 ## Architecture and Maintenance

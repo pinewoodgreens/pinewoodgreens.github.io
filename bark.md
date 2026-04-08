@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title: Pinewood Bark
+description: Read the Pinewood Bark, the official newsletter of the Pinewood Greens HOA community.
 ---
 
 The Association newsletter, The Bark, is published twice annually and distributed to all of the homes in the neighborhood.  If you missed an issue, feel free to download a PDF version below.

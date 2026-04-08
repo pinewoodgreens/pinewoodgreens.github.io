@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title: Parking in our Neighborhood
+description: Parking rules and procedures for the Pinewood Greens community.
 ---
 
 Parking (or the lack of spaces to park) is a problem in almost every townhouse community.  In our community, we have approximately two parking spots per unit including reserved parking.  We do not require parking permits and we do not have the community monitored regularly by a towing company. 

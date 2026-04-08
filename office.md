@@ -1,6 +1,8 @@
 ---
 layout: default_with_title
 title: The Association Office
+description: Hours, location, and contact information for the Pinewood Greens Association office.
+image: /images/office_door.jpg
 ---
 
 The day-to-day business of the association is handled at the Association office, located right in the middle of the community. The Association office is in the building next to the pool at 2731 Hyson Lane, Falls Church, Virginia 22043.

@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title: Trash and Recycling
+description: Trash collection and recycling schedules and guidelines for Pinewood Greens residents.
 ---
 
 # Garbage Collection Reference Table
