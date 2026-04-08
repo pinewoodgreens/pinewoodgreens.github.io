@@ -21,7 +21,7 @@ The mailing address for paper checks is:
 
 ## Local Association Office
 
-<img alt="" longdesc="Office door" src="images/office_door.jpg" class="img-responsive" style="float: right;" />
+<img alt="" src="images/office_door.jpg" class="img-responsive img-float-right" />
 
 The onsite property manager is available to assist with pool pass application inquiries, architectural control questions, volunteer opportunities and other general questions. The Pinewood Greens office is located at 2731 Hyson Lane, inside the Community Center attached to the pool. The local office phone number is 703-560-8920, and the email address is office@pinewoodgreens.com. 
 The general office hours are:

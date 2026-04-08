@@ -3,7 +3,7 @@ layout: default_with_title
 title: Our Homes
 ---
 
-<img alt="" src="images/houses.jpg" class="img-responsive" style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; float: right;" />What everyone notices first about Pinewood Greens is the amazing amount of green space not found in most townhouse communities.
+<img alt="" src="images/houses.jpg" class="img-responsive img-float-right" />What everyone notices first about Pinewood Greens is the amazing amount of green space not found in most townhouse communities.
 
 Our commons are ample, with wide open spaces for Saturday afternoon football games and room to let the kids (and maybe the adults) to work off a little energy.
 

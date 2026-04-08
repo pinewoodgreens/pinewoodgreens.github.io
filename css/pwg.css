@@ -397,6 +397,14 @@ footer .row {
   height: auto;
 }
 
+/* IMG-01: Float utility for inline content images (WR-08).
+   Replaces per-element inline style="float: right; margin: ...px" attributes.
+   Margin uses rem-based design system spacing rather than magic pixel values. */
+.img-float-right {
+  float: right;
+  margin: 0 0 1rem 1rem;
+}
+
 /* --------------------------------------------------------------------------
    MAILCHIMP EMBED — Responsive width fix (INFRA-04) + form base (DSS-04)
    Merged from two duplicate #mc_embed_signup blocks (WR-01).
