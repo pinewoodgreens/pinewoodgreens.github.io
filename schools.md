@@ -22,14 +22,14 @@ We are proud of every one of our kids and are grateful that the local schools se
 *   [Longfellow Middle School](http://www.fcps.edu/LongfellowMS/) (Middle School GT Center) - 2000 Westmoreland Street
 *   [Thomas Jefferson High School for Science and Technology](http://www.tjhsst.edu/) (High School GT Center) - 6560 Braddock Road
 
-For information about private schools in northern Virginia, click [here](http://www.northernva.com/c21/schools-private.html).
+For information about private schools in northern Virginia, click [here](https://www.northernva.com/c21/schools-private.html).
 
 ## Learning Even More
 
 There’s ample opportunity to learn at the local, state, and D.C. colleges and universities. <img alt="University" class="inlineRight img-responsive" src="images/school_uva.jpg" style="float: right;" />
 
 *   [Northern Virginia Community College](http://www.nvcc.edu)
-*   [George Mason University](http://www.gmu.edu)
+*   [George Mason University](https://www.gmu.edu)
 *   [University of Virginia](http://www.virginia.edu)
 *   [Virginia Tech](http://www.vt.edu)
 *   [William and Mary](http://www.wm.edu)
