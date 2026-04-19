@@ -1,6 +1,6 @@
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.googletagmanager.com%2Fgtag%2Fjs%3Fid%3DUA-175427977-1&amp;data=02%7C01%7C%7C72abf78027524d9f6a7908d83ff02d0b%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637329648057800350&amp;sdata=FL705h%2F9dVUoC94OCevnuGzgZ5dA8tAuRudqiafMcWU%3D&amp;reserved=0"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175427977-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -12,14 +12,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
+    {% if page.description %}
+    <meta name="description" content="{{ page.description | escape }}">
+    {% else %}
+    <meta name="description" content="{{ site.description | escape }}">
+    {% endif %}
     <meta name="author" content="">
     {% feed_meta %}
-    <title>{% if page.title %} {{ page.title }} {% endif %}</title></title>
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <!-- SEO-02: Open Graph tags for social sharing -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+    {% endif %}
 
     <!-- Bootstrap core CSS -->
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
     <link href="{{site.baseurl}}/css/bootstrap.min.css" rel="stylesheet">
  <link href="{{site.baseurl}}/css/pwg.css" rel="stylesheet">
   </head>

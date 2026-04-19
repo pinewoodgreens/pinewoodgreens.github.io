@@ -1,15 +1,17 @@
 ---
 layout: default_with_title
 title: Contact Us
+description: Contact the Pinewood Greens Association office by phone, mail, or in person.
+image: /images/office_door.jpg
 ---
 
 ## Resident Service Center
 
-For assistance with billing questions and online account access, contact the Resident Service Center at 1-855-477-2267.  Resident service is available 8:30am-8:00pm (EST), Monday-Friday.  Resident service is also available via electronic message through the [resident portal](http://www.ciranet.com/ResidentPortal). 
+For assistance with billing questions and online account access, contact the Resident Service Center at 1-855-477-2267.  Resident service is available 8:30am-8:00pm (EST), Monday-Friday.  Resident service is also available via electronic message through the [resident portal](https://www.ciranet.com/ResidentPortal). 
 
 ## Payment Information
 
-Online Payment options are now available through the [resident portal](http://www.ciranet.com/ResidentPortal).  There is a fee of $14.95 for credit card payments.  E-Check and ACH payments do not incur additional fees.
+Online Payment options are now available through the [resident portal](https://www.ciranet.com/ResidentPortal).  There is a fee of $14.95 for credit card payments.  E-Check and ACH payments do not incur additional fees.
 
 The mailing address for paper checks is:
 
@@ -21,7 +23,7 @@ The mailing address for paper checks is:
 
 ## Local Association Office
 
-<img alt="" longdesc="Office door" src="images/office_door.jpg" style="width: 271px; height: 215px; float: right;" />
+<img alt="" src="images/office_door.jpg" class="img-responsive img-float-right" />
 
 The onsite property manager is available to assist with pool pass application inquiries, architectural control questions, volunteer opportunities and other general questions. The Pinewood Greens office is located at 2731 Hyson Lane, inside the Community Center attached to the pool. The local office phone number is 703-560-8920, and the email address is office@pinewoodgreens.com. 
 The general office hours are:

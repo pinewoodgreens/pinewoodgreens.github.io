@@ -1,11 +1,12 @@
 ---
 layout: default_with_title
 title: Schools and Colleges
+description: Information about schools and colleges serving the Pinewood Greens community.
 ---
 
 ## Local Schools – We’re Proud of Our Kids
 
-[Fairfax County Public Schools](http://www.fcps.edu) <img alt="Fairfax County Public Schools" class="inlineRight" src="images/school_fcps.jpg" style="float: right;" />is one of the top school systems in the nation. It has been recognized for its excellence in education and meets or exceeds state and federal guidelines with talented and committed teachers and support personnel as well as state-of-the-art internet connectivity in all classrooms.
+[Fairfax County Public Schools](http://www.fcps.edu) <img alt="Fairfax County Public Schools" class="img-responsive img-float-right" src="images/school_fcps.jpg" />is one of the top school systems in the nation. It has been recognized for its excellence in education and meets or exceeds state and federal guidelines with talented and committed teachers and support personnel as well as state-of-the-art internet connectivity in all classrooms.
 
 We have living proof of how great Fairfax County Schools are right here in our own neighborhood.
 
@@ -22,14 +23,14 @@ We are proud of every one of our kids and are grateful that the local schools se
 *   [Longfellow Middle School](http://www.fcps.edu/LongfellowMS/) (Middle School GT Center) - 2000 Westmoreland Street
 *   [Thomas Jefferson High School for Science and Technology](http://www.tjhsst.edu/) (High School GT Center) - 6560 Braddock Road
 
-For information about private schools in northern Virginia, click [here](http://www.northernva.com/c21/schools-private.html).
+For information about private schools in northern Virginia, click [here](https://www.northernva.com/c21/schools-private.html).
 
 ## Learning Even More
 
-There’s ample opportunity to learn at the local, state, and D.C. colleges and universities. <img alt="University" class="inlineRight" src="images/school_uva.jpg" style="float: right;" />
+There’s ample opportunity to learn at the local, state, and D.C. colleges and universities. <img alt="University" class="img-responsive img-float-right" src="images/school_uva.jpg" />
 
 *   [Northern Virginia Community College](http://www.nvcc.edu)
-*   [George Mason University](http://www.gmu.edu)
+*   [George Mason University](https://www.gmu.edu)
 *   [University of Virginia](http://www.virginia.edu)
 *   [Virginia Tech](http://www.vt.edu)
 *   [William and Mary](http://www.wm.edu)

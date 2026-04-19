@@ -1,14 +1,15 @@
 ---
 layout: default_with_title
 title: Forms You Can Use
+description: Download forms used by Pinewood Greens residents for parking, pool access, and association requests.
 ---
 
 It is important for you to remember that you must submit an Application for Architectural Review before you make any changes to the outside of your property. Here are some forms for you to print out and submit electronically (email to office@pinewoodgreens.com) or drop off at the community center. Please note that when you submit the special application for replacement of roof or windows and are not making any other changes, you do **not** need to also the submit standard Application for Architectural Review.
 
-<img alt="Association Office Door" src="images/office_door.jpg" style="float: right;" />
+<img alt="Association Office Door" src="images/office_door.jpg" class="img-responsive img-float-right" />
 
 *   Architectural Review Forms
-    *   [Application for Architectural Review](documents/ACC/Application for Architectural Review.pdf)
+    *   [Application for Architectural Review](documents/ACC/Application%20for%20Architectural%20Review.pdf)
     *   [Architecture and Maintenance Guidelines](documents/ACC/ArchitectureandMaintenanceGuidelines.pdf) (effective 6/15/2022)
     *   Egress Window and Well [Guideline](documents/ACC/Egress window and well guideline-v20110126.pdf) and [Checklist](documents/ACC/Egress window and well checklist-v20110126.pdf) _(adopted 1/26/2011)_
     *   [Special Application for Replacement of Roof](documents/ACC/ROOF APPLICATION.pdf)

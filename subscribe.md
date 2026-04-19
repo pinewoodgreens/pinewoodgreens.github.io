@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title: Subscribe to our Mailing List 
+description: Subscribe to the Pinewood Greens mailing list to receive community news and announcements.
 ---
 We periodically send e-mail from time to time to keep residents updated with important information about the services that we provide, social events, impactful maintenance in the neighborhood, and more.  If you aren't already signed up, you may do so by filling out the form below.
 
@@ -8,7 +9,7 @@ We periodically send e-mail from time to time to keep residents updated with imp
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>

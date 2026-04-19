@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title: Community Tool Lending Shed
+description: Borrow tools from the Pinewood Greens community tool lending shed.
 ---
 
 ## Tool availability

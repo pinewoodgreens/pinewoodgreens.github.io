@@ -1,6 +1,7 @@
 ---
 layout: default_with_title
 title:  Neighborhood News and Features
+description: Recent news and announcements for residents of the Pinewood Greens community.
 ---
 
 <ul class="posts">  
