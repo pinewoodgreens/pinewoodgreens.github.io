@@ -252,6 +252,21 @@ a:focus {
     flex: 1;
     margin-bottom: 0;
   }
+  .hero-row .carousel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  .hero-row .carousel .carousel-inner {
+    flex: 1;
+    height: 100%;
+  }
+  /* Do NOT set display on .item — Bootstrap needs display:none to hide inactive slides */
+  .hero-row .carousel .item,
+  .hero-row .carousel .item .jumbotron {
+    height: 100%;
+    margin-bottom: 0;
+  }
   .hero-row .calendar-col {
     flex: 1; /* fill the flex column so height matches jumbotron */
     border: 2px solid var(--pine-main);
