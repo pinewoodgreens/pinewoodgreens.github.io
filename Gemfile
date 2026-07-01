@@ -22,3 +22,4 @@ gem "jekyll-default-layout"
 gem "jekyll-titles-from-headings"
 gem "jekyll-feed"
 gem "kramdown-parser-gfm"
+gem 'sass-embedded', '>= 1.101'
