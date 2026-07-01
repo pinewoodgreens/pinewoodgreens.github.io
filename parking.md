@@ -4,30 +4,42 @@ title: Parking in our Neighborhood
 description: Parking rules and procedures for the Pinewood Greens community.
 ---
 
-Parking (or the lack of spaces to park) is a problem in almost every townhouse community.  In our community, we have approximately two parking spots per unit including reserved parking.  We do not require parking permits and we do not have the community monitored regularly by a towing company. 
+<div class="panel panel-primary">
+  <div class="panel-heading"><h3 class="panel-title">Pinewood Greens Parking Rules</h3></div>
+  <div class="panel-body">
+    <p>The guidance on this page is a summary. The complete, governing rules are in the official document — please read it and keep it on hand.</p>
+    <p><a href="https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&amp;app=WordPdf" class="btn btn-primary" target="_blank" rel="noopener">Read the Parking Rules (PDF)</a></p>
+  </div>
+</div>
 
-However, we do ask that everyone follow the [parking rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf) and abide by common community courtesy practices as much as possible to give everyone an opportunity to park close to their house.  The association can and will tow vehicles in non-compliance with the [parking regulations](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf) at the owner's expense.
+We have a good mix of reserved and non-reserved parking in Pinewood Greens — just over twice as many parking spaces as there are homes. That compares well to many newer townhome communities, which were often built with only one (or one and a fraction) spaces per home. We are also fortunate to have curbside parking along Hyson Lane and Snead Lane — our two state-maintained roads — plus areas of curbside parking sprinkled throughout the neighborhood.
 
-If your vehicle has been towed, please contact [Pete's Towing and Storage](http://www.petestowingandstorage.com/)
+We do not require parking permits, and the community is not monitored regularly by a towing company. We simply ask that everyone follow the parking rules and practice common community courtesy, so that everyone has a fair chance to park close to home.
+
+#### How parking is governed
+
+Parking is governed by the Declaration of Covenants, Conditions, and Restrictions — a document that is part of your property's deed. The Covenants provide that each home is assigned one reserved parking space "which shall be near and convenient to said lot as reasonably possible, together with the right of ingress and egress in and upon said parking areas" (Article V). The parking rules summarized below are adopted under the Covenants and Article VIII, Section 1(a) of the By-Laws.
 
 #### Reserved parking
 
-Reserved spots are allocated for the exclusive use by the unit marked on the parking spot.  Pinewood Greens [parking regulations](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf) permit homeowners to have vehicles towed from his/her reserved spot at the vehicle owner's expense.  To have a vehicle towed from your reseved parking spot, please contact [Pete's Towing & Storage](http://www.petestowingandstorage.com/) at 703-533-1355.  If you have a vehicle towed, please notify the Pinewood Greens office at your earliest convenience to let us know.
+Reserved spaces are each marked "RESERVED" and are assigned to a specific home for its exclusive use. Homeowners may have a vehicle towed from their reserved spot at the vehicle owner's expense. To arrange a tow, contact [Pete's Towing &amp; Storage](https://www.facebook.com/people/Petes-Towing-Storage-LLC/100054626851292/) at 703-533-1355, then notify the Pinewood Greens office at your earliest convenience.
 
-#### Non-reserved Parking
+#### Non-reserved parking
 
-Non-reserved parking spaces are on a first come, first serve basis. No homeowner has any specific rights to any non-reserved spot. If you have more than two cars: It has long been the courtesy practice within Pinewood Greens the third (or more) car from a given home NOT be parked on the court. These vehicles should be parked on Hyson Lane or in areas where extra spaces are consistently available at night and on weekends. This gives more chance for neighbors with only two cars to park on the court near their house.
+Non-reserved spaces are first come, first served, and no home has a claim to any particular spot. As a long-standing courtesy, a home's third (or additional) vehicle should not be parked on the court. Please park extra vehicles on Hyson Lane, or in areas where spaces are consistently open at night and on weekends. This gives neighbors with only two cars a better chance to park near their homes.
 
-#### Long term storage of vehicles
+#### Long-term storage of vehicles
 
-Under Pinewood Greens Common Property Parking Regulations, residents shall NOT park longer than 15 consecutive days in an unreserved space on community property. Vehicles stored for longer than 15 days will receive a tow notice.  If you have a vehicle that is consistently not used, we ask that you park it along Hyson Lane where there is plentiful public parking.
+Vehicles may not be parked in an unreserved space on community property for more than 15 consecutive days. A vehicle stored longer than 15 days will receive a tow notice. If a vehicle is rarely used, please park it along Hyson Lane, where public parking is plentiful.
 
-#### Out of Date Registration
+#### Expired registration or inspection
 
-Pinewood Greens regulations prohibit vehicles with expired license plates or safety inspection stickers from parking in our neighborhood. 
+Vehicles with expired license plates or safety-inspection stickers may not park in our neighborhood.
 
-#### Non-functioning Vehicles
+#### Non-functioning vehicles
 
-Vehicles that obviously cannot be driven are prohibited from parking on Pinewood Greens common property.
+Vehicles that obviously cannot be driven may not be parked on Pinewood Greens common property.
 
-For a full listing of our parking rules, please read our [Parking Rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf).
+#### If your vehicle has been towed
+
+Please contact [Pete's Towing and Storage](https://www.facebook.com/people/Petes-Towing-Storage-LLC/100054626851292/).
